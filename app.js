@@ -1,0 +1,85 @@
+
+//chpater 1 alert
+// alert("hello world");
+
+
+//chapter2
+// varaiable for string
+// var name="saif";
+// alert(name);
+
+// var num=5;
+// alert(num);
+
+//chapter 3
+//varable for number
+// var a=5;
+// var b=a+7;
+// alert(b);
+
+
+
+//chapter 4
+// varaible name legal and illegal
+// var camelCase;
+
+
+//chapter 5
+// math expression familiar operatrs
+
+// alert(2+2);
+// var num=12-10;
+// alert(num);
+// var mul=5*10;
+// alert(mul);
+// var divd=10/2;
+// alert(divd);
+// var modulus=10%3;
+// alert(modulus);
+
+//chapter 6
+//increment
+// 1.pre increment
+// 2.post increment
+//decrement 
+// 1.pre decrement
+// 2.post decrement 
+1.
+// var a=5;
+// ++a;
+// alert(a);
+2.
+// var a=5;
+// a++;
+// alert(a);
+
+//chapter7
+// bodmas
+// var a=(12+7)*9-4;
+// alert(a);
+
+// /chapter 8
+// var firstname="fahad";
+// var lastname="khan";
+// var age=40;
+// alert("This is my name"+firstname+lastname+"my age is"+age);
+// alert("this is my age"+age);
+// var a=45+5;
+// var b=5+10;
+// alert("this is sum of a+b"+(a+b));
+
+// /chapter9
+//prompt
+// var firstname=prompt("enter the firstname");
+// var lastname=prompt("enter the lastname");
+// var fullname=firstname+lastname;
+// alert(fullname);
+
+//chapter 10
+// if statements
+// var name=prompt("enter the name")
+// if(name=="fahad"){
+
+// alert("yes you are right")
+
+// }
