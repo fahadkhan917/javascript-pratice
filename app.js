@@ -192,6 +192,13 @@
 // function timer(){
 
 // minsec++;
+// min.innerHTML=minsec;
+// if(msce>=60){
+// sec++;
+
+
+// }
+
 
 
 // }
