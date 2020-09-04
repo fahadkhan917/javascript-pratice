@@ -120,3 +120,12 @@
 // document.write("sorry");
 
 // }
+
+
+// var se=5;
+// se++;
+// if(se==6){
+
+// document.write("yes");
+
+// }
