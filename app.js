@@ -162,3 +162,19 @@
 // var a=["fahad","khan",45,"ali","umer"];
 // var b=a.join(' ');
 // document.write(b);
+
+// function abc(e){
+
+// let val=document.getElementById('val');
+// val.value+=e;
+
+
+
+
+// }
+
+// function equal(e){
+//     let val=document.getElementById('val');
+//     val.value=eval(val.value);
+
+// }
