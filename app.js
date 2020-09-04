@@ -83,3 +83,28 @@
 // alert("yes you are right")
 
 // }
+
+//chapter 11
+// var num="2";
+// var num1=2
+// if(num===num1){
+
+// document.write("yes");
+
+// }
+
+
+// var num="2";
+// var num1=2
+// if(num!==num1){
+
+// document.write("yes");
+
+// }
+
+var a=5;
+var b=7;
+if(a<b){
+document.write("yes");
+
+}
