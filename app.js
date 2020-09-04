@@ -180,3 +180,24 @@
 // }
 
 
+
+// var min=0;
+// var sec=0;
+// var minsec=0;
+// var min=document.getElementById('min');
+// var sec=document.getElementById('sec');
+// var minsec=document.getElementById('minsec');
+// var interval;
+
+// function timer(){
+
+// minsec++;
+
+
+// }
+
+// function strt(){
+
+
+
+// }
