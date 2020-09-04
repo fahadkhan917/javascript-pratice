@@ -129,3 +129,19 @@
 // document.write("yes");
 
 // }
+
+// var a=5;
+// var b=5;
+// if(a==5&&b==4){
+
+// document.write("yes");
+
+// }
+
+// var a=5;
+// var b=5;
+// if(a==5||b==4){
+
+// document.write("yes");
+
+// }
