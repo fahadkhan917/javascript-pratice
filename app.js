@@ -145,3 +145,17 @@
 // document.write("yes");
 
 // }
+
+// nested if
+// var a=5;
+// var b=5;
+// var c=5;
+// var d=5;
+// if(a==b){
+// if(c==d){
+// document.write("your are right")
+
+// }
+
+// }
+
