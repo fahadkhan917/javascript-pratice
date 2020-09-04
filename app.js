@@ -208,3 +208,14 @@
 
 
 // }
+
+
+
+
+
+// var a="fahad";
+// var b="khan";
+// document.write(`${a} ${b}`);
+
+
+v
