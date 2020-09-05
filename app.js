@@ -245,6 +245,21 @@
 // document.write(roll);
 
 //ternary operators
-var age=20;
+// var age=20;
+// var chk=age>30?
+// "30 sa bara hai"
+// :
+// "30 se chota hai"
+
+// document.write(chk);
+
+
+// var age=20;
+// var check=age>30?
+// "30sa chota hai"
+// :
+// "30 sa bara hai"
+
+// document.write(check);
 
 
