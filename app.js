@@ -212,10 +212,23 @@
 
 
 
-
+//template literals
 // var a="fahad";
 // var b="khan";
 // document.write(`${a} ${b}`);
 
+//spread operators
+// var stu=["asad","ali","khan","umer"];
+// var stu1=[...stu,"saad","umair"];
+// document.write(stu1);
 
-v
+var a={
+
+name:"fahad",
+lasname:"khan"
+
+}
+
+let{name,lasname}=a;
+
+document.write(name);
