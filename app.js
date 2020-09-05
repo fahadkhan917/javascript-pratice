@@ -233,3 +233,18 @@
 // let{name,lasname}=a;
 
 // document.write(name);
+
+// var a={
+// name:"fahad",
+// roll:123
+
+// }
+
+// let{name,roll}=a;
+
+// document.write(roll);
+
+//ternary operators
+var age=20;
+
+
