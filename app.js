@@ -262,4 +262,48 @@
 
 // document.write(check);
 
+// var pro=new Promise(function(resolve,reject){
+// var zinger="avaible";
+// if(zinger==="avaible"){
 
+//     resolve("han fahad khelara hai zinger");
+
+// }
+
+// else{
+
+// reject("nahi hai")
+
+// }
+
+// })
+
+// pro.then(function(data){
+
+// document.write(data);
+
+// })
+
+// .catch(function(error){
+//     document.write("error"+error)
+
+// })
+
+// var p=new Promise(function(re,rej) {
+//     var name=prompt("enter the username");
+//     if(name==="fahad"){
+//      re("your name is right")
+
+//     }
+//     rej("sorry");
+
+// })
+
+
+// p.then(function(data) {
+//   document.write(data)  
+// })
+
+// .catch(function(error) {
+//     document.write(error);
+// })
