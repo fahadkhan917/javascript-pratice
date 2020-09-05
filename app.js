@@ -222,13 +222,14 @@
 // var stu1=[...stu,"saad","umair"];
 // document.write(stu1);
 
-var a={
+//object destructuring
+// var a={
 
-name:"fahad",
-lasname:"khan"
+// name:"fahad",
+// lasname:"khan"
 
-}
+// }
 
-let{name,lasname}=a;
+// let{name,lasname}=a;
 
-document.write(name);
+// document.write(name);
