@@ -336,3 +336,12 @@
 // var lastname="khan";
 
 // document.write(`${name} ${lastname}`)
+
+
+
+// var age=20;
+// var chk=age<30?
+// "hello"
+// :
+// "khan"
+// document.write(chk)
