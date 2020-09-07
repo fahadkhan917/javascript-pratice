@@ -307,3 +307,27 @@
 // .catch(function(error) {
 //     document.write(error);
 // })
+
+
+// var a=new Promise(function(resolve,reject) {
+//     var name="fahad";
+//     if(name=="fahad"){
+//      resolve("yes");
+
+//     }
+// else{
+
+// reject("sorry");
+
+// }
+// })
+
+
+// a.then(function(data) {
+//     document.write("yes");
+// })
+
+// .catch(function(error) {
+    
+// document.write("error")
+// })
