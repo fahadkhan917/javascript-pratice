@@ -352,7 +352,10 @@
 // document.write(b)
 
 
+
+
 // var count=0;
+
 // function abc(){
 // count++;
 // document.write(count)
@@ -362,3 +365,15 @@
 // setInterval(() => {
 //     abc()
 // }, 1000);
+
+
+// function abc(){
+
+// document.write("fahad");
+
+// }
+
+
+// setTimeout(() => {
+//     abc();
+// }, 5000);
