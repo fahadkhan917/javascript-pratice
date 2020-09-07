@@ -331,3 +331,8 @@
     
 // document.write("error")
 // })
+
+// var name="fahad";
+// var lastname="khan";
+
+// document.write(`${name} ${lastname}`)
