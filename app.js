@@ -377,3 +377,23 @@
 // setTimeout(() => {
 //     abc();
 // }, 5000);
+
+
+
+// for(var i=0;i<100;i=i+10){
+// for(var j=i;j<i+10;j++){
+// document.write(j)
+// }
+// document.write("<br>")
+// }
+
+
+// for(var i=0;i<5;i++){
+// for(var j=0;j<i;j++){
+
+// document.write("*");
+
+// }
+// document.write("<br>")
+
+// }
