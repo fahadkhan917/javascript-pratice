@@ -184,17 +184,26 @@
 // var min=0;
 // var sec=0;
 // var minsec=0;
-// var min=document.getElementById('min');
-// var sec=document.getElementById('sec');
-// var minsec=document.getElementById('minsec');
+// var headmin=document.getElementById('min');
+// var headsec=document.getElementById('sec');
+// var headminsec=document.getElementById('minsec');
 // var interval;
 
 // function timer(){
 
 // minsec++;
-// min.innerHTML=minsec;
-// if(msce>=60){
+// headmin.innerHTML=minsec;
+// if(minsce>=60){
 // sec++;
+// headsec.innerHTML=sec;
+// minsec=0;
+
+
+// }
+// else if(sec>=60){
+// min++;
+// sec=0;
+// headmin.innerHTML=min;
 
 
 // }
@@ -204,13 +213,17 @@
 // }
 
 // function strt(){
-
+// interval=setInterval(timer,10);
 
 
 // }
 
 
+// function stp(){
 
+// clearInterval(interval)
+
+// }
 
 //template literals
 // var a="fahad";
