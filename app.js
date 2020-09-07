@@ -345,3 +345,20 @@
 // :
 // "khan"
 // document.write(chk)
+
+
+// var a=["ali","khan"];
+// var b=[...a,"umer","asad"];
+// document.write(b)
+
+
+// var count=0;
+// function abc(){
+// count++;
+// document.write(count)
+
+// }
+
+// setInterval(() => {
+//     abc()
+// }, 1000);
