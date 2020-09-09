@@ -410,3 +410,96 @@
 // document.write("<br>")
 
 // }
+
+
+
+//----------------------------------------------------------
+
+
+//CHAP 11
+
+// var a=5;
+// var b="5";
+// if(a==b){
+
+//     document.write("equal");
+
+// }
+
+
+
+// var a=Number(prompt("Give value of a"))
+// var b=prompt("enter the user b");
+// if(a==b){
+
+// document.write("equal")
+
+// }
+// else{
+
+//     document.write("sorry");
+// }
+
+
+// var x="fahad";
+// var y="fahad";
+// if(x!==y){
+// document.write(" equal");
+
+// }
+
+// var a=Number(prompt("enter the num"));
+// var b=prompt("enter the user");
+// if(a!==b){
+
+// document.write("not equal");
+
+// }
+
+// var a=5;
+// var b=5;
+// if(a<b){
+// document.write("greater than");
+
+// }
+
+// var a=65;
+// if(a>90){
+// document.write("a is greater than 90")
+
+// }
+// else if(a>=65){
+// document.write("yes")
+
+// }
+// else{
+
+//     document.write("sorry");
+// }
+
+// var a=4;
+// var b=3;
+// var c=3;
+// var d=4;
+// if(a==b||c==d){
+// document.write("equal")
+
+// }
+// else{
+// document.write("sorry")
+
+// }
+
+// var a=4;
+// var b=4;
+// var c=4;
+// var d=4;
+// if (a==b) {
+//     if(c==d){
+
+//         document.write("both equal");
+//     }
+// }
+
+// var cities=["toronto","baltimore","chicago","missounga", "ONTARIO"] 
+// console.log(cities);
