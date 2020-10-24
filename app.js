@@ -619,3 +619,22 @@
 
 //     document.write("odd number");
 // }
+
+// var temp=prompt("enter the temperature");
+// if(temp>40){
+
+//     document.write("It is too hot outside");
+// }
+// else if(temp>30){
+
+//     document.write("the weather today is normal");
+// }
+
+// else if(temp>20){
+
+//     document.write("the weather today is cool");
+// }
+// else if(temp>10){
+
+//     document.write("OMG! Todas weather is soo cool");
+// }
