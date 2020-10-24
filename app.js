@@ -700,3 +700,27 @@
 
 //     document.write("number is equal");
 // }
+
+// var user=prompt("enter the user")
+// if(user=="a"){
+//     document.write("vowel")
+// }
+// else if(user=="a"){
+//     document.write("vowel")
+// }
+// else if(user=="e"){
+//     document.write("vowel")
+// }
+// else if(user=="i"){
+//     document.write("vowel")
+// }
+// else if(user=="o"){
+//     document.write("vowel")
+// }
+// else if(user=="u"){
+//     document.write("vowel")
+// }
+// else{
+
+//     document.write("sorry")
+// }
