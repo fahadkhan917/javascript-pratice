@@ -563,6 +563,29 @@ var sub2=Number(prompt("enter the subject 2 number"));
 var sub3=Number(prompt("enter the subject 3 number"));
 var total_marks=prompt("enter the total number");
 var mark_obt=sub1+sub2+sub3;
+var per=mark_obt/total_marks*100;
 
+        
 document.write("total marks"+total_marks);
 document.write("Marks obtaibned"+mark_obt);
+document.write("Percentage"+per);
+
+if(per>80){
+    document.write("A-one")
+    
+    }
+    else if(per>70){
+    document.write("A");
+    
+    }
+    else if(per>60){
+        document.write("B");
+        
+        }
+      
+            else{
+    
+                document.write("Fail")
+    
+document.write("Grade"+per);
+}
