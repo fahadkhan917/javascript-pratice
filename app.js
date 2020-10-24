@@ -513,15 +513,33 @@
 
 // }
 
-var user=prompt("enter the gender please");
-if(user==="male"){
+// var user=prompt("enter the gender please");
+// if(user==="male"){
 
-alert("good morning sir");
+// alert("good morning sir");
 
-}
+// }
 
-else if(user==="female"){
+// else if(user==="female"){
 
-alert("good morning maam");
+// alert("good morning maam");
 
-}
+// }
+
+
+// var user=prompt("enter the color");
+// if(user==="red"){
+// alert("must stop");
+
+// }
+// else if(user=="yellow"){
+
+// alert("Ready to move");
+
+// }
+
+// else if(user=="green"){
+
+//     alert("Move now");
+    
+//     }
