@@ -550,3 +550,19 @@
 //     alert("plesae refill the fuel in your car");
 
 // }
+
+// var a=4;
+// if(++a===5){
+
+//     document.write("equal");
+// }
+
+
+var sub1=Number(prompt("enter the subject 1 number"));
+var sub2=Number(prompt("enter the subject 2 number"));
+var sub3=Number(prompt("enter the subject 3 number"));
+var total_marks=prompt("enter the total number");
+var mark_obt=sub1+sub2+sub3;
+
+document.write("total marks"+total_marks);
+document.write("Marks obtaibned"+mark_obt);
