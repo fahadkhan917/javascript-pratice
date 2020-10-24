@@ -658,3 +658,31 @@
 
 //     document.write(first/sec);
 // }
+
+// var user=prompt("enter please");
+// var user=prompt("enter the number");
+// if(user.charCodeAt>=(65) && user.charCodeAt<=(90)){
+
+//     document.write("upper case");
+// }
+
+// else if(user.charCodeAt>=(97) && user.charCodeAt<=(122)){
+//     document.write("lowercase");
+//     }
+
+
+var num=+prompt("enter the user");
+var num2=+prompt("enter the number");
+if(num<num2){
+
+document.write("num2");
+
+}
+else if(num>num2){
+document.write("num1");
+
+}
+else if(num==num2){
+document.write("equal");
+
+}
