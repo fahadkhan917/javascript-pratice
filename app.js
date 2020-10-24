@@ -543,3 +543,10 @@
 //     alert("Move now");
     
 //     }
+
+// var user=prompt("enter the remaining fuel");
+// if(user<0.25){
+
+//     alert("plesae refill the fuel in your car");
+
+// }
