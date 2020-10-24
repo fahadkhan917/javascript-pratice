@@ -512,3 +512,16 @@
 
 
 // }
+
+var user=prompt("enter the gender please");
+if(user==="male"){
+
+alert("good morning sir");
+
+}
+
+else if(user==="female"){
+
+alert("good morning maam");
+
+}
