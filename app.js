@@ -671,18 +671,32 @@
 //     }
 
 
-var num=+prompt("enter the user");
-var num2=+prompt("enter the number");
-if(num<num2){
+// var num=+prompt("enter the user");
+// var num2=+prompt("enter the number");
+// if(num<num2){
 
-document.write("num2");
+// document.write("num2");
 
-}
-else if(num>num2){
-document.write("num1");
+// }
+// else if(num>num2){
+// document.write("num1");
 
-}
-else if(num==num2){
-document.write("equal");
+// }
+// else if(num==num2){
+// document.write("equal");
 
-}
+// }
+
+// var num=prompt("enter the user");
+// if(num>0){
+
+//     document.write("number is postive");
+// }
+// else if(num<0){
+// document.write("negative");
+
+// }
+// else if(num==0){
+
+//     document.write("number is equal");
+// }
