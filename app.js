@@ -638,3 +638,23 @@
 
 //     document.write("OMG! Todas weather is soo cool");
 // }
+
+// var first=+prompt("enter the first number");
+// var sec=+prompt("enter the second number");
+// var oper=prompt("enter the operation");
+// if(oper=="+"){
+
+//     document.write(first+sec);
+// }
+// else if(oper=="-"){
+
+//     document.write(first-sec);
+// }
+// else if(oper=="*"){
+
+//     document.write(first*sec);
+// }
+// else if(oper=="/"){
+
+//     document.write(first/sec);
+// }
