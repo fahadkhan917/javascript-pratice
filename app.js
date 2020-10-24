@@ -503,3 +503,12 @@
 
 // var cities=["toronto","baltimore","chicago","missounga", "ONTARIO"] 
 // console.log(cities);
+
+
+// var user=prompt("enter the user name");
+// if(user==="karachi"){
+
+//     alert("welcome to karachi");
+
+
+// }
