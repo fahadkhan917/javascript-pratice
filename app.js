@@ -602,3 +602,20 @@
 //     document.write("Close enough to the correct number")
 
 // }
+
+// var user=prompt("enter the number");
+// if(user%3==0){
+
+//     document.write("the user number is divisible by 3");
+// }
+
+// var user=prompt("enter the number");
+// if(user%2==0){
+
+// document.write("even number");
+
+// }
+// else if(user%3==0){
+
+//     document.write("odd number");
+// }
