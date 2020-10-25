@@ -807,3 +807,8 @@
 // var user=prompt("enter the index you want to delte");
 // color.splice(0,user,0);
 // document.write(color);
+
+// var sc=[320,230,480,120];
+// document.write("Scores of student"+sc);
+// var b=sc.sort();
+// document.write("Ordered scores of student"+b);
