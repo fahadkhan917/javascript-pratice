@@ -858,3 +858,31 @@
 
 // }
 
+// for(var i=0;i<=15;i++){
+// document.write(i);
+
+// }
+
+// for(var i=15;i>0;i--){
+//     document.write(i);
+    
+//     }
+
+// for(var i=0;i<20;i=i+2){
+  
+//     document.write(i)
+
+// }
+
+// for(var i=1;i<=19;i=i+2){
+  
+//     document.write(i)
+
+// }
+
+var a=["cake","apple pie","cookie","chips","patties"];
+
+for(var i=0;i<a.length;i++){
+document.write(a[i]);
+
+}
