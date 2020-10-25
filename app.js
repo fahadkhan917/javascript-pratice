@@ -821,3 +821,14 @@
 // var arr=["this","is","my","cat"];
 // var b=arr.join(' ');
 // document.write(b);
+
+// var a=["keyborad","mouse","printer","monitor"];
+// document.write(a+"<br>");
+// a.pop();
+// document.write(a+"<br>");
+// a.pop();
+// document.write(a+"<br>");
+// a.pop();
+// document.write(a+"<br>");
+// a.pop();
+// document.write(a+"<br>");
