@@ -851,3 +851,10 @@
 
 // }
 
+// var friuts=["apple","banana","mango","orange"];
+// for(var i=0;i<friuts.length;i++){
+
+// document.write("Element at index of"+friuts.indexOf(friuts[i])+"is"+friuts[i]+"<br>");
+
+// }
+
