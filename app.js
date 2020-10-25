@@ -725,19 +725,48 @@
 //     document.write("sorry")
 // }
 
-var pass="fahad";
-var user=prompt("enter the user password");
-if(user===pass){
+// var pass="fahad";
+// var user=prompt("enter the user password");
+// if(user===pass){
 
-    document.write("you are correct");
-}
-else if(user.length===0){
+//     document.write("you are correct");
+// }
+// else if(user.length===0){
 
-    document.write("please enter your password");
-}
+//     document.write("please enter your password");
+// }
 
-else{
+// else{
 
-document.write("Incoorect password");
+// document.write("Incoorect password");
 
-}
+// }
+
+// var greeting;
+// var hour = 13;
+// if (hour < 18) {
+// greeting = "Good day";
+// }
+// else{
+// greeting = "Good evening";
+// }
+
+
+// var user=prompt("enter the time");
+// if(user>=0000 && user<1200){
+
+//     document.write("Good morning");
+
+// }
+// else if(user>=1200&& user<1700){
+// document.write("good afternoon");
+
+// }
+// else if(user>=1700&& user<2100){
+// document.write("Good evening");
+
+// }
+// else if(user>=2100&&user<=2359){
+
+//     document.write("Good night");
+// }
