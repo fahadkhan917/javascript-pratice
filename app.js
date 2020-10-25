@@ -832,3 +832,7 @@
 // document.write(a+"<br>");
 // a.pop();
 // document.write(a+"<br>");
+
+var a=["apple","samsung","motorola","nokia","sony","haier"];
+
+document.write("<select><option>"+a[0]+"</option></select>")
