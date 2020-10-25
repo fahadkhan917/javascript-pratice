@@ -888,4 +888,12 @@
 //     }
 // }
 
-var arr=[24,53]
+// var arr=[24,53,78,91,12];
+// var lar=0;
+// for(var i=0;i<arr.length;i++){
+// if(arr[i]>lar){
+
+// lar=arr[i];
+// }
+// }
+// document.write(lar);
