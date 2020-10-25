@@ -770,3 +770,21 @@
 
 //     document.write("Good night");
 // }
+
+
+// var qual=["Scc","Hsc","Bcs","Bs","Bcom","Ms","M.phil","Phd"];
+// for(var i=0;i<qual.length;i++){
+
+// document.write(qual[i]+"<br>");
+
+// }
+
+
+// var name=["fahad","ali","umer"];
+// var num=[320,230,480];
+// var total=500;
+// var per;
+
+// document.write("Score of"+name[0]+ "is"+num[0]+"Percentage:"+"Percentage:"+num[0]/total*100);
+// document.write("Score of"+name[1]+ "is"+num[1]+"Percentage:"+"Percentage:"+num[1]/total*100);
+// document.write("Score of"+name[2]+ "is"+num[2]+"Percentage:"+"Percentage:"+num[2]/total*100);
