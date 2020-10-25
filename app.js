@@ -724,3 +724,20 @@
 
 //     document.write("sorry")
 // }
+
+var pass="fahad";
+var user=prompt("enter the user password");
+if(user===pass){
+
+    document.write("you are correct");
+}
+else if(user.length===0){
+
+    document.write("please enter your password");
+}
+
+else{
+
+document.write("Incoorect password");
+
+}
