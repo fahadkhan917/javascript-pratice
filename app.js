@@ -790,16 +790,20 @@
 // document.write("Score of"+name[2]+ "is"+num[2]+"Percentage:"+"Percentage:"+num[2]/total*100);
 
 
-var color=[];
-var user=prompt("enter the color please");
-color.unshift(user);
-var user=prompt("enter the color in end");
-color.push(user);
-var user=prompt("enter the color in end");
-color.unshift(user);
-var user=prompt("enter the color in end");
-color.unshift(user);
-color.shift();
-color.pop();
-
-document.write(color);
+// var color=[];
+// var user=prompt("enter the color please");
+// color.unshift(user);
+// var user=prompt("enter the color in end");
+// color.push(user);
+// var user=prompt("enter the color in end");
+// color.unshift(user);
+// var user=prompt("enter the color in end");
+// color.unshift(user);
+// color.shift();
+// color.pop();
+// var user=prompt("enter the index wher eyou want to add");
+// var user1=prompt("enter what color you add");
+// color.splice(user,0,user1);
+// var user=prompt("enter the index you want to delte");
+// color.splice(0,user,0);
+// document.write(color);
