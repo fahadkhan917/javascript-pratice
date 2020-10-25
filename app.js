@@ -812,3 +812,12 @@
 // document.write("Scores of student"+sc);
 // var b=sc.sort();
 // document.write("Ordered scores of student"+b);
+
+// var city=["karachi","lahore","islamabad","quetta","peshawar"];
+// var b=city.slice(2,4);
+// document.write(city+"<br>");
+// document.write(b);
+
+// var arr=["this","is","my","cat"];
+// var b=arr.join(' ');
+// document.write(b);
