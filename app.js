@@ -788,3 +788,18 @@
 // document.write("Score of"+name[0]+ "is"+num[0]+"Percentage:"+"Percentage:"+num[0]/total*100);
 // document.write("Score of"+name[1]+ "is"+num[1]+"Percentage:"+"Percentage:"+num[1]/total*100);
 // document.write("Score of"+name[2]+ "is"+num[2]+"Percentage:"+"Percentage:"+num[2]/total*100);
+
+
+var color=[];
+var user=prompt("enter the color please");
+color.unshift(user);
+var user=prompt("enter the color in end");
+color.push(user);
+var user=prompt("enter the color in end");
+color.unshift(user);
+var user=prompt("enter the color in end");
+color.unshift(user);
+color.shift();
+color.pop();
+
+document.write(color);
