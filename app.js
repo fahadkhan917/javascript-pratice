@@ -833,6 +833,21 @@
 // a.pop();
 // document.write(a+"<br>");
 
-var a=["apple","samsung","motorola","nokia","sony","haier"];
+// var a=["apple","samsung","motorola","nokia","sony","haier"];
 
-document.write("<select><option>"+a[0]+"</option></select>")
+// document.write("<select><option>"+a[0]+"</option></select>")
+
+
+// for(var i=0;i<=10;i++){
+// document.write(i+"<br>");
+
+// }
+
+// var user=prompt("enter the table");
+// var len=prompt("enter the length");
+// for(var i=1;i<=len;i++){
+
+// document.write(user+"X"+i+"="+user*i+"<br>");
+
+// }
+
