@@ -880,9 +880,12 @@
 
 // }
 
-var a=["cake","apple pie","cookie","chips","patties"];
+// var a=["cake","apple pie","cookie","chips","patties"];
+// var user=prompt("enter the find");
+// for(var i=0;i<a.length;i++){
+//     if(user===a[i]){
+// document.write(user+"is available at index"+a.indexOf(user)+"in our bakery");
+//     }
+// }
 
-for(var i=0;i<a.length;i++){
-document.write(a[i]);
-
-}
+var arr=[24,53]
