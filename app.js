@@ -942,4 +942,37 @@
 // document.write(b);
 
 
+// var a="peanuts";
+// var b=a.toUpperCase();
+// document.write(b);
+
+
+// var a="javascript";
+// var b=a.slice(0,1);
+// b=b.toUpperCase();
+// a=a.slice(1);
+// a=a.toLowerCase()
+// document.write(b,a);
+
+// var a=35.26;
+// var b=a.toString();
+// b=b.replace('.',' ')
+// document.write(b);
+
+
+
+// var a=prompt("enter the username");
+// for(var i=0;i<a.length;i++){
+// if(a.charCodeAt(i)>=97 && a.charCodeAt(i)<=124){
+
+// document.write("yes");
+// break;
+// }
+
+// }
+
+
+
+
+
 
