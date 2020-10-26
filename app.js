@@ -898,8 +898,29 @@
 // }
 // document.write(lar);
 
-for(var i=5;i<=100;i=i+5){
+// for(var i=5;i<=100;i=i+5){
 
-    document.write(i)
+//     document.write(i)
 
-}
+// }
+
+
+// var first=prompt("enter the first");
+// var sec=prompt("enter the sec");
+// var full=first+sec;
+// document.write(full);
+
+
+// var a="Samsung galaxy s6 edge plus";
+// var b=a.length;
+// document.write(b);
+
+
+// var str="paksitani";
+// var b=str.indexOf('n');
+// document.write(b);
+
+// var str="hello world";
+// var b=str.lastIndexOf('l');
+// document.write(b);
+
