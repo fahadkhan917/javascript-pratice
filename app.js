@@ -970,6 +970,35 @@
 // }
 
 // }
+// var user=prompt("enter the value which you find");
+// var a=["cake","applepie","cookie","chips","patties"];
+// for(var i=0;i<a.length;i++){
+// if(user==a[i].toUpperCase() || user==a[i].toLowerCase())
+//     document.write("yes");
+
+// }
+
+
+
+// var user=prompt("enter the password");
+// for(var i=0;i<user.length;i++){
+// if(user.charCodeAt(i)>=0 || user.charCodeAt(i)<=9){
+
+//     document.write("yes");
+
+
+// }
+
+// }
+
+// var a="karachi of university";
+// var b=a.split('');
+// for(var i=0;i<b.length;i++){
+
+//     document.write(b[i]+"<br>");
+
+
+// }
 
 
 
