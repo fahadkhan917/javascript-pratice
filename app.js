@@ -1069,4 +1069,30 @@
 
 
 
+// var a=new Date();
+// var b=a.getDay();
+// if(b==0 || b==6){
+// document.write("Its fun day");
+
+// }
+// else{
+
+//     document.write("noraml day");
+
+// }
+
+// var a=new Date();
+// var b=a.getDate();
+// if(b<15){
+// document.write("first day fiften");
+
+// }
+// else{
+
+// document.write("last day")
+
+// }
+
+
+
 
