@@ -1052,7 +1052,20 @@
 // document.write(ran);
 
 
+// var a=new Date();
+// document.write(a);
 
+
+// var mon=["jan","feb","mar","april","may","june","july","aug","sep","oct","nov","dec"];
+// var a=new Date();
+// var b=a.getMonth();
+// document.write(mon[b]);
+
+
+// var day=["sun","mon","tue","wed","thu","fri","sat"];
+// var a=new Date();
+// var b=a.getDay();
+// document.write(day[b])
 
 
 
