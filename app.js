@@ -1018,7 +1018,30 @@
 // var flor=Math.floor(nu);
 // document.write(flor+"<br>")
 // var cei=Math.ceil(nu);
-// document.write(cei)
+// document.write(cei);
+
+
+// var a=-4;
+// var b=Math.abs(a);
+// document.write(b);
+
+// var a="";
+// var b=Math.random(a)*6;
+// var c=b.toFixed(0);
+// document.write(c);
+
+// var a="";
+// var b=Math.floor(Math.random(a)*2)+1;
+
+// if(b==1){
+// document.write("Tails");
+
+// }
+// else{
+
+// document.write("heads");
+
+// }
 
 
 
