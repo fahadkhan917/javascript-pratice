@@ -1001,6 +1001,12 @@
 // }
 
 
+// var a=prompt("enter the user plz");
+// var c=a.toString();
+// var d=c.charAt(a.length-1)
+// document.write(d);
+
+
 
 
 
