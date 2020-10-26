@@ -1006,6 +1006,20 @@
 // var d=c.charAt(a.length-1)
 // document.write(d);
 
+// var str="the qiuck brown fox jumps over the lazy dog";
+// var b=str.match(/the/g).length;
+// document.write(b);
+
+
+// var nu=3.45214;
+// document.write("number"+nu+"<br>");
+// var roun=Math.round(nu);
+// document.write(roun+"<br>");
+// var flor=Math.floor(nu);
+// document.write(flor+"<br>")
+// var cei=Math.ceil(nu);
+// document.write(cei)
+
 
 
 
