@@ -924,3 +924,22 @@
 // var b=str.lastIndexOf('l');
 // document.write(b);
 
+// var a="pakisatani";
+// var b=a.charAt(3);
+// document.write(b);
+
+// var fir=prompt("enter the name");
+// var sec=prompt("emter the sec name");
+// var full=fir.concat(sec);
+// document.write(full);
+
+// var a="Hyderabad";
+// var b=a.replace(/hyder/gi,"islam");
+// document.write(b);
+
+// var a="“Ali and Sami are best friends. They play cricket and football together";
+// var b=a.replace(/and/gi,'&');
+// document.write(b);
+
+
+
