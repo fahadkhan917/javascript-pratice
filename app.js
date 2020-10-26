@@ -1043,6 +1043,26 @@
 
 // }
 
+// var a="";
+// var b=Math.floor(Math.random(a)*100)+1;
+// document.write(b);
+
+// var a=prompt("entr the user");
+// var ran=parseInt(a);
+// document.write(ran);
+
+
+// var user=+prompt("enter the number")
+// var ran=Math.floor(Math.random()*10)+1;
+// if(user==ran){
+
+//     alert("Cong you are right");
+// }
+
+// else{
+// alert("try again");
+
+// }
 
 
 
