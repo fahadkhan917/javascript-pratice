@@ -1151,3 +1151,15 @@
 // var a=new Date(curr.getTime()-(1000*60*60*24*365.25*user));
 // document.write(a.getFullYear());
 
+// var username=prompt("enter the username");
+// var moth=["jan","feb","march","april","may","june","july","aug","sep","oct","nov","dec"];
+// var a=new Date();
+// var b=a.getMonth();
+// var numofun=prompt("enter the unit");
+// var chrgeperunit=16;
+// var total=numofun*chrgeperunit;
+// document.write(username+"<br>");
+// document.write(moth[b]);
+// document.write(total+"<br>");
+
+
