@@ -1192,3 +1192,38 @@
 // }
 
 // abc();
+
+
+// function abc(num1,num2,opr) {
+    
+//     var result;
+//     if(opr=='+'){
+// result=num1+num2;
+
+//     }
+//     else if(opr=='-'){
+//         result=num1+num2;
+        
+//             }
+//           else  if(opr=='*'){
+//                 result=num1+num2;
+                
+//                     }
+//               else   if(opr=='/'){
+//                         result=num1+num2;
+                        
+//                             }        
+//   return result;
+
+// }
+// document.write(abc(4,5,'+'))
+
+
+function abc(sq){
+
+sq=sq*sq;
+document.write(sq);
+
+}
+
+abc(4)
