@@ -1163,3 +1163,21 @@
 // document.write(total+"<br>");
 
 
+// function abc(){
+
+// var a=new Date();
+// document.write(a);
+
+// }
+// abc();
+
+// function abc(){
+
+// var a="fahad";
+// var b="khan";
+// var full=a+b;
+// document.write(full)
+
+// }
+
+// abc();
