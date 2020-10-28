@@ -1141,3 +1141,13 @@
 // document.write(b);
 
 
+
+// var a=new Date();
+// var b=new Date("1920/10/10");
+// document.write(a+"<br>");
+// document.write(b+"<br>"); 
+// var curr=new Date();
+// var user=prompt("enter the user");
+// var a=new Date(curr.getTime()-(1000*60*60*24*365.25*user));
+// document.write(a.getFullYear());
+
