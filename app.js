@@ -1115,4 +1115,18 @@
 
 // }
 
+// var a=new Date("2020/12/31");
+// document.write(a);
+
+
+
+
+// var currentdate=new Date();
+// var a=new Date("2015/1/1");
+// var daysgone=parseInt((currentdate.getTime()-a.getTime())/(1000*60*60*24));
+// document.write(daysgone);
+
+// var startingdate = new Date("2015/1/1");
+// var daysgone = parseInt((currentdate.getTime() - startingdate.getTime())/(1000*60));
+// document.write(daysgone + " seconds have passed since 2015")
 
