@@ -1130,3 +1130,14 @@
 // var daysgone = parseInt((currentdate.getTime() - startingdate.getTime())/(1000*60));
 // document.write(daysgone + " seconds have passed since 2015")
 
+// var a=new Date("2015/12/5");
+// var cur=new Date();
+// var sec=parseInt(cur.getTime()-a.getTime())/(1000);
+// var flo=Math.floor(sec);
+// document.write(flo);
+
+// var a=new Date();
+// var b=new Date(a.getTime()-(1000*60*60));
+// document.write(b);
+
+
