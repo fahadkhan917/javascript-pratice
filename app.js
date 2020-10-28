@@ -1102,6 +1102,17 @@
 
 
 
+// var a=new Date();
+// var b=a.getHours();
+// if(b<12){
 
+//     document.write("AM");
+
+// }
+// else{
+
+// document.write("PM")
+
+// }
 
 
