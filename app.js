@@ -1181,3 +1181,14 @@
 // }
 
 // abc();
+
+// function abc(){
+// var a=+prompt("enter the first number")
+// var b=+prompt("enter the second number");
+// var c=a+b;
+// document.write(c);
+
+
+// }
+
+// abc();
