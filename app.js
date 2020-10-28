@@ -1093,6 +1093,15 @@
 
 // }
 
+// var a=new Date();
+// document.write(a+"<br>");
+// var b=a.getTime();
+// document.write("Elaped millisecond"+b+"<br>");
+// var c=a.getTime()/(1000*60);
+// document.write("minutes"+c);
+
+
+
 
 
 
