@@ -1261,4 +1261,31 @@
 // abc(5,20);
 
 
+// function abc(base,pre){
+
+// function sqr(x){
+
+// return x*x;
+
+// }
+
+// var result=sqr(base)+sqr(pre);
+// return result;
+// }
+
+// document.write("the"+abc(4,3));
+
+// function abc(height,width){
+// var area=height*width;
+// document.write(area);
+
+
+// }
+// var height=4
+// var width=5;
+
+// abc(height,width);
+
+
+
 
