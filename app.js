@@ -1219,11 +1219,29 @@
 // document.write(abc(4,5,'+'))
 
 
-function abc(sq){
+// function abc(sq){
 
-sq=sq*sq;
-document.write(sq);
+// var re=sq*sq;
+// return re;
 
-}
+// }
 
-abc(4)
+// document.write(abc(5))
+// var sum=0;
+// function abc(num){
+// var fac;
+// for(var i=0;i<num;i++){
+
+//     fac=num*i;
+//     sum=sum+fac;
+
+
+
+// }
+
+// document.write(sum);
+
+// }
+
+// abc(4)
+
