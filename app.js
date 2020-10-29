@@ -1245,3 +1245,20 @@
 
 // abc(4)
 
+// function abc(firs,last){
+
+// for(var i=firs;i<last;i++){
+
+
+// document.write(i);
+
+// }
+
+
+
+// }
+
+// abc(5,20);
+
+
+
