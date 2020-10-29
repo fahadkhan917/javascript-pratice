@@ -1286,6 +1286,20 @@
 
 // abc(height,width);
 
+// function abc(str){
+//    var newstr="";
+//     for(var i=str.length-1;i>=0;i--){
+//      newstr+=str;
 
+//      if(str===newstr){
+//   document.write("yes")
+
+//      }
+
+//     }
+
+
+// }
+// abc("madam");
 
 
