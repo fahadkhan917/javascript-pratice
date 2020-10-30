@@ -1319,3 +1319,24 @@
 
 // abc("the quick brown fox");
 
+
+function abc(str) {
+
+    var arr=str.match(/\w[a-z]{0,}/gi);
+    var result=arr[0];
+
+
+    
+    for(var x=1;x<arr.length;x++){
+if(result.length<arr[x].length){
+
+result=arr[x];
+
+}
+document.write(result);
+    }
+    
+
+}
+abc("web fahad khan");
+
