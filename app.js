@@ -1303,3 +1303,19 @@
 // abc("madam");
 
 
+// function abc(word){
+
+//     // document.write(word);
+//     var b=word.split(' ');
+//     for(var i=0;i<b.length;i++){
+// b[i]=b[i].charAt(0).toUpperCase()+b[i].slice(1);
+// document.write(b[i]);
+//     }
+
+
+
+
+// }
+
+// abc("the quick brown fox");
+
