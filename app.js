@@ -1360,3 +1360,19 @@
 // }
 
 // abc("fahad","a")
+
+
+// function a(r){
+
+// var res=2*3.14*r;
+// document.write(res+"<br>");
+
+// }
+
+// function b(r){
+
+// var re=3.14*(r)*(r);
+// document.write(re);
+// }
+// a(3)
+// b(4)
