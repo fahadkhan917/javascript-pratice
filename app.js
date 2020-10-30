@@ -1320,23 +1320,43 @@
 // abc("the quick brown fox");
 
 
-function abc(str) {
+// function abc(str) {
 
-    var arr=str.match(/\w[a-z]{0,}/gi);
-    var result=arr[0];
+//     var arr=str.match(/\w[a-z]{0,}/gi);
+//     var result=arr[0];
 
 
     
-    for(var x=1;x<arr.length;x++){
-if(result.length<arr[x].length){
+//     for(var x=1;x<arr.length;x++){
+// if(result.length<arr[x].length){
 
-result=arr[x];
+// result=arr[x];
 
-}
-document.write(result);
-    }
+// }
+// document.write(result);
+//     }
     
 
-}
-abc("web fahad khan");
+// }
+// abc("web fahad khan");
 
+
+// function abc(str,letter){
+
+// var letter_cunt=0;
+// for(var i=0;i<str.length;i++){
+
+//     if(str.charAt(i)==letter){
+
+//   letter_cunt+=1;
+
+
+//     }
+
+
+// }
+
+// document.write(letter_cunt);
+// }
+
+// abc("fahad","a")
