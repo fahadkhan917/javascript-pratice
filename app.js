@@ -1376,3 +1376,18 @@
 // }
 // a(3)
 // b(4)
+
+
+// function  cal(a,b)
+// {
+
+//     var z=a;
+// for(var i=0;i<b;i++){
+
+//     z=z*a;
+
+
+// }
+// document.write(z)
+// }
+// cal(2,5);
