@@ -1404,3 +1404,37 @@
 // document.write("not a leap year");
 
 // }
+
+
+// function abc(a,b){
+
+//     var v=a;
+//     for(var i=0;i<b;i++){
+    
+//     v=v*a;
+  
+
+//     }
+
+//     document.write(v);
+
+// }
+
+// abc(2,5);
+
+// function Area(a,b,c) {
+// var area;    
+// area=(cal(a,b,c)*(cal(a,b,c)-a)*(cal(a,b,c)-b)*(cal(a,b,c)-c));
+// document.write(area+"<br>");
+// }
+
+// function cal(a,b,c) {
+    
+// var s=((a+b+c)/2);
+// document.write(s+"<br>");
+
+// }
+
+
+// cal(2,3,4);
+// Area(2,3,4);
