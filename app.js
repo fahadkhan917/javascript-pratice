@@ -1391,3 +1391,16 @@
 // document.write(z)
 // }
 // cal(2,5);
+
+
+// var a=Number(prompt("enter a year"));
+// if(a%4===0){
+
+// document.write("its a leap year");
+
+// }
+// else{
+
+// document.write("not a leap year");
+
+// }
