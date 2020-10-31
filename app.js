@@ -1438,3 +1438,12 @@
 
 // cal(2,3,4);
 // Area(2,3,4);
+
+
+// var tt=document.getElementById('t');
+// tt.value="ali";
+
+// var p=document.getElementById('p');
+
+
+
