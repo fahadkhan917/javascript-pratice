@@ -1566,42 +1566,47 @@
 //         }
 
 
-var a=prompt("enter the word");
-var found=0;
-function remove(ch){
+// var a=prompt("enter the word");
+// var found=0;
+// function remove(ch){
 
-    switch(ch){
+//     switch(ch){
    
-                        case 'a':
-                        case 'E':
-                        case 'e':
-                        case 'I':
-                        case 'i':
-                        case 'O':
-                        case 'o':
-                        case 'U':
-                        case 'u':
-                        return true;
-                        default:
-                            return false;
+//                         case 'a':
+//                         case 'E':
+//                         case 'e':
+//                         case 'I':
+//                         case 'i':
+//                         case 'O':
+//                         case 'o':
+//                         case 'U':
+//                         case 'u':
+//                         return true;
+//                         default:
+//                             return false;
 
-    }
+//     }
 
-}
-
-
-for(var i=0;i<a.length;i++){
-if(remove(a[i])){
-
-found++;
-document.write(found)
-}
-
-else{
-
-found=0;
-
-}
+// }
 
 
-}
+// for(var i=0;i<a.length;i++){
+// if(remove(a[i])){
+
+// found++;
+// // document.write(found)
+// }
+
+// else{
+
+// found=0;
+
+// }
+// if(found==2){
+
+// document.write(a[i-1],a[i]);
+
+// }
+
+
+// }
