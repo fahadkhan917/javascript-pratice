@@ -1494,16 +1494,25 @@
 // document.write(dele(5,6))
 
 
-function dele(){
+// function dele(text){
 
-    var sen="my name is fahad"
-   for(var i=0;i<sen.length;i++){
-   if()
+//     // var sen="my name is fahad";
+//     var resu=" ";
+//    for(var i=0;i<text.length;i++){
+//   var c=sen[i];
+//    if("aeiou",match(c.toLowerCase())==null){
+
+//   resu+=c;
  
 
-   }
+//    }
+//  return resu;
 
+//    }
 
-}
+  
+// }
 
-dele();
+// var a=dele("my name is fahad");
+// document.write(a);
+
