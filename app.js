@@ -1566,11 +1566,42 @@
 //         }
 
 
-var a="fahad khan ho mae,";
+var a=prompt("enter the word");
 var found=0;
+function remove(ch){
+
+    switch(ch){
+   
+                        case 'a':
+                        case 'E':
+                        case 'e':
+                        case 'I':
+                        case 'i':
+                        case 'O':
+                        case 'o':
+                        case 'U':
+                        case 'u':
+                        return true;
+                        default:
+                            return false;
+
+    }
+
+}
+
 
 for(var i=0;i<a.length;i++){
-if(found==2){
-document.write(a[i-1],a[i]);
+if(remove(a[i])){
+
+found++;
+document.write(found)
 }
+
+else{
+
+found=0;
+
+}
+
+
 }
