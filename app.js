@@ -1610,3 +1610,37 @@
 
 
 // }
+
+// var a=Number(prompt("enter the distance between two city"));
+// function meter(a){
+
+// document.write("in meter is"+(a*1000));
+
+
+// }
+// function feet(a){
+//     document.write("in meter is"+(a*3280.8));
+
+
+    
+// }
+// function inches(a){
+
+//     document.write("in meter is"+(a*39370.178740));
+
+    
+// }
+// function ci(a){
+
+
+//     document.write("In centimeter is " + (a * 100000) + "<br>" );
+    
+// }
+
+// meter(a);
+// feet(a);
+// inches(a);
+// ci(a);
+
+
+
