@@ -1651,5 +1651,10 @@
 
 // }
 
+// var a=parseInt(prompt("enter the amount"));
+//   document.write("the total 100 notes is " + (a / 100) + "<br>");   
+//   document.write("the total 50 notes is " + (a % 100)/50  + "<br>");   
+//   document.write("the total 10 notes is " + ((a % 100) % 50)/10  + "<br>");   
+//   document.write("the amount still is " + (a % 10)); 
 
 
