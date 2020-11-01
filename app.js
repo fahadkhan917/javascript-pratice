@@ -1444,6 +1444,21 @@
 // tt.value="ali";
 
 // var p=document.getElementById('p');
+// var a=Number(prompt("enter the number please yiu enter the please three subject mark"))
+// function av(a){
+// var b=(a/3);
+// document.write("the average is"+b+"<br>");
 
 
+// }
+
+
+// function per(a) {
+    
+// var c=(a/300)*100;
+// document.write(c);
+
+// }
+// av(a);
+// per(a);
 
