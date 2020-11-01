@@ -1527,3 +1527,50 @@
 // }
 
 // abc("fahad khan ho mae");
+
+
+// var a = prompt("Enter a string");
+//        var found = 0;
+//         function isvowel(ch) {
+
+//             switch (ch) {
+//                 case 'A':
+//                 case 'a':
+//                 case 'E':
+//                 case 'e':
+//                 case 'I':
+//                 case 'i':
+//                 case 'O':
+//                 case 'o':
+//                 case 'U':
+//                 case 'u':
+//                     return true;
+//                 default:
+//                     return false;
+//             }
+//         }
+       
+//         for (i = 0; i<a.length; i++) {
+//             if (isvowel(a[i])) {
+
+//                 found ++;
+//             }
+//             else {
+//                 found = 0;
+//             }
+//             if (found == 2) {
+//                 document.write(a[i - 1], a[i] + "<br>");
+//                 //found = 0;
+                
+//             }
+//         }
+
+
+var a="fahad khan ho mae,";
+var found=0;
+
+for(var i=0;i<a.length;i++){
+if(found==2){
+document.write(a[i-1],a[i]);
+}
+}
