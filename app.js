@@ -1642,5 +1642,14 @@
 // inches(a);
 // ci(a);
 
+// var da=+prompt("enter a hour of employeess");
+// var sa=+prompt("enter a hour of employeess");
+// if(da>40){
+// var c=(da-40)*12;
+// document.write("the total salary"+(c+sa));
+
+
+// }
+
 
 
