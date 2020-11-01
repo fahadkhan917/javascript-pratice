@@ -1658,3 +1658,10 @@
 //   document.write("the amount still is " + (a % 10)); 
 
 
+// function deleteRow(row){
+
+// // var d=row.parentNode
+// row.parentNode.parentNode.remove();
+// }
+
+
