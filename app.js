@@ -1478,3 +1478,32 @@
 // }
 
 // abc();
+
+
+
+// function dele(a,b){
+
+
+// var c=a+b;
+// return c;
+// }
+
+
+
+
+// document.write(dele(5,6))
+
+
+function dele(){
+
+    var sen="my name is fahad"
+   for(var i=0;i<sen.length;i++){
+   if()
+ 
+
+   }
+
+
+}
+
+dele();
