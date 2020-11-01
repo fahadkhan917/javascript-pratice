@@ -1680,3 +1680,23 @@
     
     
 //     }
+
+// var count=0;
+// function a(){
+
+// var pr=document.getElementById("para");
+// pr.innerHTML=++count;
+
+
+
+
+// }
+
+// function b(){
+
+//     var pr=document.getElementById("para");
+// pr.innerHTML=--count;
+
+
+
+// }
