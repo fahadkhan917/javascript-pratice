@@ -1665,3 +1665,18 @@
 // }
 
 
+// function abc(){
+
+// var img=document.getElementById('im1');
+// img.src='1.jpg'
+
+
+// }
+
+// function xyz(){
+
+//     var img=document.getElementById('im1')
+//     img.src='download.png'
+    
+    
+//     }
