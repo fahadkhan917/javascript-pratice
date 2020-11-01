@@ -1516,3 +1516,14 @@
 // var a=dele("my name is fahad");
 // document.write(a);
 
+
+// function abc(str){
+
+
+//     var c=str.replace(/[aeiou]/g,'');
+//     document.write(c);
+
+
+// }
+
+// abc("fahad khan ho mae");
