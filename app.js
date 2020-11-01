@@ -1462,3 +1462,19 @@
 // av(a);
 // per(a);
 
+// function abc(){
+
+// var a="fahad";
+// for(var i=0;i<a.length;i++){
+// if(a[i]=='a'){
+
+// document.write("the index of a is"+i);
+// // break;
+
+// }
+
+// }
+
+// }
+
+// abc();
