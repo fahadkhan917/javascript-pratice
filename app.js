@@ -1738,3 +1738,41 @@ printstudent()
 
 
 }
+
+function printstudent(){
+if(students.length){
+document.getElementById('tb').innerHTML=
+
+<tr>
+<th>Sno</th>
+<th>Name</th>
+<th>Age</th>
+<th>Class</th>
+
+
+</tr>
+
+students.map((value,index) => {
+document,getElementById('tb').innerHTML+=<tr>
+<td>${(index+1)}</td>
+<td>${value.name}</td>
+<td>${value.age}</td>
+<td>${value.class}</td>
+{/* <td><button onclick='remove(${index})'>delete</td> */}
+
+
+
+
+</tr>
+
+
+})
+
+}
+
+printstudent()
+}
+
+
+
+
