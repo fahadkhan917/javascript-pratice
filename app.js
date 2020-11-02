@@ -1709,3 +1709,11 @@
 // document.write(txt1.value)
 // document.write(txt2.value)
 // }
+
+// function abc(){
+// var para=document.getElementById("para");
+// var phar="Maiores, quo at, voluptate cumque error excepturi cum laudantium est perferendis repudiandae dolores ipsa dolorem ex similique amet facere, fugit hic sit?";
+// para.innerText=phar;
+
+
+// }
