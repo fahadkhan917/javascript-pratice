@@ -1718,14 +1718,23 @@
 
 // }
 
-
+var students=[];
 function add(){
 
 var name=document.getElementById('txt1').value;
-name=
+name=name.slice(0,1).toUpperCase()+name.slice(1).toLowerCase();
+var age=document.getElementById('age')
+var clas=document.getElementById('class');
+if(!(name&& age&&clas)){
+alert("all feild reqiured must")
+}
+
+else{
+students.push({name:name,age:age,class:clas})
+printstudent()
 
 
-
+}
 
 
 }
