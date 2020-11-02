@@ -1700,3 +1700,12 @@
 
 
 // }
+
+
+// function abc(){
+
+// var txt1=document.getElementById('txt1')
+// var txt2=document.getElementById('txt2')
+// document.write(txt1.value)
+// document.write(txt2.value)
+// }
