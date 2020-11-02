@@ -1717,3 +1717,15 @@
 
 
 // }
+
+
+function add(){
+
+var name=document.getElementById('txt1').value;
+name=
+
+
+
+
+
+}
