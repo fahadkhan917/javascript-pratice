@@ -1851,10 +1851,10 @@
 // document.write(found);
 
 
-function zom(e){
+// function zom(e){
 
-    var img=document.getElementById('i');
-    img.src=e.src;
+//     var img=document.getElementById('i');
+//     img.src=e.src;
 
 
-}
+// }
