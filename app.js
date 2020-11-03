@@ -1877,3 +1877,17 @@
 
 
 // }
+
+
+// var main=document.getElementById("main-content");
+// console.log(main.childNodes);
+// var allcls=document.getElementsByClassName("content");
+// console.log(allcls[0]);
+// var fill=document.getElementById("first-name");
+// fill.value="fahad";
+// var ls=document.getElementById("last-name");
+// var em=document.getElementById("email");
+// ls.value="khan";
+// em.value="fk16181gmail.com"
+
+
