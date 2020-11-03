@@ -1779,59 +1779,73 @@
 // }
 // printStudents()
 
-var students = [];
-		function add() {
-			// alert('aa')
-			var name = document.getElementById('txt1').value;
-			name = name.slice(0,1).toUpperCase() + name.slice(1).toLowerCase();
-			var age = document.getElementById('txt2').value;
-			var classs = document.getElementById('txt3').value;
+// var students = [];
+// 		function add() {
+// 			// alert('aa')
+// 			var name = document.getElementById('txt1').value;
+// 			name = name.slice(0,1).toUpperCase() + name.slice(1).toLowerCase();
+// 			var age = document.getElementById('txt2').value;
+// 			var classs = document.getElementById('txt3').value;
 
-			if (!(name && age && classs)) {
-				alert('All Fields Required !!!')
-			} else {
-				students.push({ name: name, age: age, class: classs })
-				printStudents()
-			}
-			// after submit fields empty
-			var name = document.getElementById('txt1').value = '';
-			var age = document.getElementById('txt2').value = '';
-			var classs = document.getElementById('txt3').value = '';
-		}
-		function remove(index) {
-			students.splice(index, 1)
-			printStudents();
-		}
+// 			if (!(name && age && classs)) {
+// 				alert('All Fields Required !!!')
+// 			} else {
+// 				students.push({ name: name, age: age, class: classs })
+// 				printStudents()
+// 			}
+// 			// after submit fields empty
+// 			var name = document.getElementById('txt1').value = '';
+// 			var age = document.getElementById('txt2').value = '';
+// 			var classs = document.getElementById('txt3').value = '';
+// 		}
+// 		function remove(index) {
+// 			students.splice(index, 1)
+// 			printStudents();
+// 		}
 
-		function printStudents() {
-			if (students.length) {
-				document.getElementById('tb').innerHTML = `
-			<tr>
-			<th>S.NO</th>
-			<th>Name </th>
-			<th>Age</th>
-			<th>Class</th>
-		</tr>
-			`
+// 		function printStudents() {
+// 			if (students.length) {
+// 				document.getElementById('tb').innerHTML = `
+// 			<tr>
+// 			<th>S.NO</th>
+// 			<th>Name </th>
+// 			<th>Age</th>
+// 			<th>Class</th>
+// 		</tr>
+// 			`
 
-				students.map((value, index) => {
-					document.getElementById('tb').innerHTML += `<tr>
-			<td >${(index + 1)}</td>
-			<td>${value.name}</td>
-			<td>${value.age}</td>
-			<td>${value.class}</td>
-			<td><button onclick='remove(${index})'>delete</button></td>
-		</tr>`
-				})
-			} else {
-				document.getElementById('tb').innerHTML = `
-			<tr>
-			<th>S.NO</th>
-			<th>Name </th>
-			<th>Age</th>
-			<th>Class</th>
-		</tr>
-			`
-			}
-		}
-		printStudents()
+// 				students.map((value, index) => {
+// 					document.getElementById('tb').innerHTML += `<tr>
+// 			<td >${(index + 1)}</td>
+// 			<td>${value.name}</td>
+// 			<td>${value.age}</td>
+// 			<td>${value.class}</td>
+// 			<td><button onclick='remove(${index})'>delete</button></td>
+// 		</tr>`
+// 				})
+// 			} else {
+// 				document.getElementById('tb').innerHTML = `
+// 			<tr>
+// 			<th>S.NO</th>
+// 			<th>Name </th>
+// 			<th>Age</th>
+// 			<th>Class</th>
+// 		</tr>
+// 			`
+// 			}
+// 		}
+// 		printStudents()
+
+// var found=0;
+// var a=prompt("enter the user");
+// for(var i=0;i<a.length;i++){
+// if(a[i]=='a'){
+
+// found++;
+
+// }
+
+
+
+// }
+// document.write(found);
