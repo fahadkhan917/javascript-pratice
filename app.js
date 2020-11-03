@@ -1890,19 +1890,21 @@
 // ls.value="khan";
 // em.value="fk16181gmail.com"
 
-var student={
-name:"fahad",
-roll:123,
-school:'saylani'
+// var student={
+// name:"fahad",
+// roll:123,
+// school:'saylani'
 
 
-}
+// }
 
 
-for(var key in student){
-console.log(student[key])
+// for(var key in student){
+// document.write(student[key])
 
-}
+// }
+
+
 
 
 
