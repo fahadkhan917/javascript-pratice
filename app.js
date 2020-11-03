@@ -1858,3 +1858,22 @@
 
 
 // }
+
+// var count=10;
+// function zoomin(){
+
+//     var para=document.getElementById('myp');
+//     para.style.fontSize=count+10+'px';
+
+
+
+// }
+
+// function zoomout(){
+
+//     var para=document.getElementById('myp');
+//     para.style.fontSize=count-1+'px';
+
+
+
+// }
