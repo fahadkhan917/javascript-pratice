@@ -15,25 +15,29 @@ function add(){
   var deltebtn=document.createElement("button");
   var deletxt=document.createTextNode("delete");
   deltebtn.appendChild(deletxt);
-  list.appendChild(deltebtn);
   deltebtn.setAttribute("onclick","dlte(this)");
+  crli.appendChild(deltebtn);
+
 
 
   //editbtn
   var editbtn=document.createElement("button");
   var edittxt=document.createTextNode("edit");
   editbtn.appendChild(edittxt);
-  list.appendChild(editbtn);
-  editbtn.setAttribute("onclick","edit()")
+  editbtn.setAttribute("onclick","edit(this)")
+  crli.appendChild(editbtn);
+  
 
 }
 
-function dlte(){
-alert("yes")
+function dlte(e){
+e.parentNode.remove();
 
 }
 
-function edit(){
-alert("edit")
+function edit(e){
+
+// console.log(e.parentNode.firstChild)
+
 
 }
