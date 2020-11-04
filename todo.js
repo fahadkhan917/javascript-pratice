@@ -3,29 +3,35 @@ var list=document.getElementById('list');
 function add(){
 
     var txt=document.getElementById('txt');
-    var crli=document.createElement('li');
-    var litxt=document.createTextNode(txt.value);
-    crli.appendChild(litxt);
-    list.appendChild(crli)
+  var db=firebase.database().ref('todos')
+    var key=db.push().key
+
+    db.child(key)
+    
+    
+//     var crli=document.createElement('li');
+//     var litxt=document.createTextNode(txt.value);
+//     crli.appendChild(litxt);
+//     list.appendChild(crli)
     
 
-    txt.value='';
+//     txt.value='';
 
-  //deletebtn
-  var deltebtn=document.createElement("button");
-  var deletxt=document.createTextNode("delete");
-  deltebtn.appendChild(deletxt);
-  deltebtn.setAttribute("onclick","dlte(this)");
-  crli.appendChild(deltebtn);
+//   //deletebtn
+//   var deltebtn=document.createElement("button");
+//   var deletxt=document.createTextNode("delete");
+//   deltebtn.appendChild(deletxt);
+//   deltebtn.setAttribute("onclick","dlte(this)");
+//   crli.appendChild(deltebtn);
 
 
 
-  //editbtn
-  var editbtn=document.createElement("button");
-  var edittxt=document.createTextNode("edit");
-  editbtn.appendChild(edittxt);
-  editbtn.setAttribute("onclick","edit(this)")
-  crli.appendChild(editbtn);
+//   //editbtn
+//   var editbtn=document.createElement("button");
+//   var edittxt=document.createTextNode("edit");
+//   editbtn.appendChild(edittxt);
+//   editbtn.setAttribute("onclick","edit(this)")
+//   crli.appendChild(editbtn);
   
 
 }
@@ -49,3 +55,7 @@ var edi=prompt("enter the edit");
 e.parentNode.firstChild.nodeValue=edi;
 
 }
+
+
+
+
