@@ -37,7 +37,8 @@ e.parentNode.remove();
 
 function edit(e){
 
-// console.log(e.parentNode.firstChild)
-
+// console.log(e.parentNode.firstChild.nodeValue)
+var edi=prompt("enter the edit");
+e.parentNode.firstChild.nodeValue=edi;
 
 }
