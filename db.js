@@ -16,15 +16,22 @@ firebase.database().ref('student/'+key).set(student)
 }
 
 
-function getdata(){
-firebase.database().ref("student").once('value',function(data){
-console.log(data.val())
+// function getdata(){
+// firebase.database().ref("student").on('child_added',function(data){
+// console.log(data.val())
 
 
-})
+// })
 
 
-}
+// }
 
 
+// function removedata(){
 
+// firebase.database().ref('student').remove()
+
+
+// }
+
+// removedata()
