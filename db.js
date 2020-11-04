@@ -35,3 +35,18 @@ firebase.database().ref('student/'+key).set(student)
 // }
 
 // removedata()
+
+// function edit(){
+
+// firebase.database().ref('student/-MLI41OPwLk2BoqN6s0b').set({
+// key:'-MLI41OPwLk2BoqN6s0b',
+// name:"fahad",
+// roll:123
+
+
+
+// })
+
+// }
+
+// edit()
