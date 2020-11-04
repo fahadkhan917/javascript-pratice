@@ -30,6 +30,13 @@ function add(){
 
 }
 
+function deleteall(){
+
+list.innerHTML='';
+
+
+}
+
 function dlte(e){
 e.parentNode.remove();
 
