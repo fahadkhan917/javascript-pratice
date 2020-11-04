@@ -1915,8 +1915,10 @@ function  save() {
 
     }
 
-    console.log(student)
+    // firebase.datebase().ref('stu').set("fahad")
+    
 }
+
 
 
 

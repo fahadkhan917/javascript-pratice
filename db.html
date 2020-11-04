@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://www.gstatic.com/firebasejs/8.0.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.0.0/firebase-database.js"></script>
+    <script>
+        // Your web app's Firebase configuration
+        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+        var firebaseConfig = {
+          apiKey: "AIzaSyC1P_xuL4O_SUsRbZf4ZX4NqaS_TmZsy6c",
+          authDomain: "check123-82fd4.firebaseapp.com",
+          databaseURL: "https://check123-82fd4.firebaseio.com",
+          projectId: "check123-82fd4",
+          storageBucket: "check123-82fd4.appspot.com",
+          messagingSenderId: "78697516706",
+          appId: "1:78697516706:web:2ffc78f996c91fbd10d1fb",
+          measurementId: "G-RV9LM7WDQJ"
+        };
+        // Initialize Firebase
+        firebase.initializeApp(firebaseConfig);
+      </script>
+</head>
+
+<body>
+    
+<div>
+<input type="text" id="name" placeholder="name"/>
+<input type="text" id="roll" placeholder="roll"/>
+<br>
+<input type="button" onclick="abc()" value="submit"/>
+
+</div>
+
+</body>
+</html>
+<script src="db.js"></script>
