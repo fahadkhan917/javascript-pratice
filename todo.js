@@ -18,9 +18,22 @@ function add(){
   list.appendChild(deltebtn);
   deltebtn.setAttribute("onclick","dlte(this)");
 
+
+  //editbtn
+  var editbtn=document.createElement("button");
+  var edittxt=document.createTextNode("edit");
+  editbtn.appendChild(edittxt);
+  list.appendChild(editbtn);
+  editbtn.setAttribute("onclick","edit()")
+
 }
 
 function dlte(){
 alert("yes")
+
+}
+
+function edit(){
+alert("edit")
 
 }
