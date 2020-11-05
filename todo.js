@@ -5,8 +5,13 @@ function add(){
     var txt=document.getElementById('txt');
   var db=firebase.database().ref('todos')
     var key=db.push().key
+  var todo={
+    value:txt.value,
+    key:key
 
-    db.child(key)
+  }
+
+    db.child(key).set(todo)
     
     
 //     var crli=document.createElement('li');
