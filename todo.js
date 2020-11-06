@@ -1,5 +1,36 @@
 
 var list=document.getElementById('list');
+
+
+firebase.database().ref('todos').on('child_added',function(data){
+
+    var crli=document.createElement('li');
+    var litxt=document.createTextNode(data.val().value);
+    crli.appendChild(litxt);
+    list.appendChild(crli)
+    
+
+    txt.value='';
+
+  //deletebtn
+  var deltebtn=document.createElement("button");
+  var deletxt=document.createTextNode("delete");
+  deltebtn.appendChild(deletxt);
+  deltebtn.setAttribute("onclick","dlte(this)");
+  crli.appendChild(deltebtn);
+
+
+
+  //editbtn
+  var editbtn=document.createElement("button");
+  var edittxt=document.createTextNode("edit");
+  editbtn.appendChild(edittxt);
+  editbtn.setAttribute("onclick","edit(this)")
+  crli.appendChild(editbtn);
+  
+
+})
+
 function add(){
 
     var txt=document.getElementById('txt');
@@ -14,30 +45,7 @@ function add(){
     db.child(key).set(todo)
     
     
-//     var crli=document.createElement('li');
-//     var litxt=document.createTextNode(txt.value);
-//     crli.appendChild(litxt);
-//     list.appendChild(crli)
-    
 
-//     txt.value='';
-
-//   //deletebtn
-//   var deltebtn=document.createElement("button");
-//   var deletxt=document.createTextNode("delete");
-//   deltebtn.appendChild(deletxt);
-//   deltebtn.setAttribute("onclick","dlte(this)");
-//   crli.appendChild(deltebtn);
-
-
-
-//   //editbtn
-//   var editbtn=document.createElement("button");
-//   var edittxt=document.createTextNode("edit");
-//   editbtn.appendChild(edittxt);
-//   editbtn.setAttribute("onclick","edit(this)")
-//   crli.appendChild(editbtn);
-  
 
 }
 
