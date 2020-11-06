@@ -5,7 +5,7 @@ var list=document.getElementById('list');
 firebase.database().ref('todos').on('child_added',function(data){
 
     var crli=document.createElement('li');
-    var litxt=document.createTextNode(data.val().value);
+    var litxt=document.createTextNode(data.val().value );
     crli.appendChild(litxt);
     list.appendChild(crli)
     
