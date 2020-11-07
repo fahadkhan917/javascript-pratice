@@ -5,18 +5,20 @@ var list=document.getElementById('list');
 firebase.database().ref('todos').on('child_added',function(data){
 
     var crli=document.createElement('li');
-    var litxt=document.createTextNode(data.val().value );
+    var litxt=document.createTextNode(data.val().value);
     crli.appendChild(litxt);
-    list.appendChild(crli)
+    list.append(crli)
     
 
-    txt.value='';
+   
 
   //deletebtn
   var deltebtn=document.createElement("button");
   var deletxt=document.createTextNode("delete");
   deltebtn.appendChild(deletxt);
+
   deltebtn.setAttribute("onclick","dlte(this)");
+  deltebtn.setAttribute('id',data.val().key)
   crli.appendChild(deltebtn);
 
 
@@ -43,7 +45,7 @@ function add(){
   }
 
     db.child(key).set(todo)
-    
+    val.value=" ";
     
 
 
@@ -56,7 +58,8 @@ list.innerHTML='';
 
 }
 
-function dlte(e){
+function dlte(e,key){
+firebase.database().ref('todos').child(e.id).remove()
 e.parentNode.remove();
 
 }
