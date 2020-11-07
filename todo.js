@@ -27,6 +27,7 @@ firebase.database().ref('todos').on('child_added',function(data){
   var editbtn=document.createElement("button");
   var edittxt=document.createTextNode("edit");
   editbtn.appendChild(edittxt);
+  editbtn.setAttribute('id',data.val().key)
   editbtn.setAttribute("onclick","edit(this)")
   crli.appendChild(editbtn);
   
@@ -68,6 +69,11 @@ function edit(e){
 
 // console.log(e.parentNode.firstChild.nodeValue)
 var edi=prompt("enter the edit");
+var edittodo={
+value:edi,
+key:e.id
+}
+firebase.database().ref('todos').child(e.id).set(edittodo)
 e.parentNode.firstChild.nodeValue=edi;
 
 }
