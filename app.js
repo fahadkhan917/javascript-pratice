@@ -1904,21 +1904,28 @@
 
 // }
 
-function  save() {
-    var name=document.getElementById("name");
-    var roll=document.getElementById("roll");
+// function  save() {
+//     var name=document.getElementById("name");
+//     var roll=document.getElementById("roll");
 
-    var student={
+//     var student={
 
-    name:name.value,
-    roll:roll.value
+//     name:name.value,
+//     roll:roll.value
 
-    }
+//     }
 
-    // firebase.datebase().ref('stu').set("fahad")
+//     // firebase.datebase().ref('stu').set("fahad")
     
+// }
+
+
+function  abc() {
+    
+// window.location.href='https://www.google.com/'
+// var txt="welcome to my page"
+window.open('https://www.google.com/');
+
 }
-
-
 
 
