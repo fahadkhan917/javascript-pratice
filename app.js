@@ -1920,12 +1920,25 @@
 // }
 
 
-function  abc() {
+// function  abc() {
     
-// window.location.href='https://www.google.com/'
-// var txt="welcome to my page"
-window.open('https://www.google.com/');
+// // window.location.href='https://www.google.com/'
+// // var txt="welcome to my page"
+// window.open('https://www.google.com/');
+
+// }
+// var name="basit";
+// function  foo() {
+    
+//     name="fahad"
+// }
+// foo();
+// console.log(name)
+
+
+if(true){
+
+const namess="fahad"
 
 }
-
-
+console.log(namess);
