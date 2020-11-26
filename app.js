@@ -1938,7 +1938,7 @@
 
 if(true){
 
-const namess="fahad"
+let namess="fahad"
 
 }
 console.log(namess);
