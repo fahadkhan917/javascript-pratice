@@ -1936,9 +1936,46 @@
 // console.log(name)
 
 
-if(true){
+// if(true){
 
-let namess="fahad"
+// let namess="fahad"
 
-}
-console.log(namess);
+// }
+// console.log(namess);
+
+
+
+
+// new pratice here
+
+
+// var a="fahad";
+
+// alert("this is my name"+a)
+
+
+// var a="fahad";
+
+// for(var i=0;i<a.length;i++){
+// document.write(a[i])
+
+// }
+
+
+// var a=10;
+// document.write("the value of a is:"+a)
+
+// document.write("<br>")
+// a=++a;
+// document.write("now the value"+a)
+// document.write("<br>")
+// a=a++;
+// document.write("now the value"+a)
+// document.write("<br>")
+// a=--a;
+// document.write("now the value"+a)
+// document.write("<br>")
+// a=a--;
+// document.write("now the value"+a)
+
+
