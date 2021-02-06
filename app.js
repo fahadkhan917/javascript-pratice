@@ -2071,3 +2071,23 @@
 // if (++a === 5){
 // alert("given condition for variable a is true");
 // }
+
+// var b = 82;
+// if (b++ === 83){
+// alert("given condition for variable b is true");
+// }
+
+var obt1=+prompt("enter the obtained marks 1")
+var obt2=+prompt("enter the obtained marks 2")
+var obt3=+prompt("enter the obtained marks 3")
+var totalmark=prompt("enter the total marks")
+var markobt=obt1+obt2+obt3
+var per=markobt/totalmark*100
+if(per>80){
+    
+}
+
+document.write("total marks"+totalmark)
+document.write("marks obtained"+markobt)
+document.write("percantage"+per)
+
