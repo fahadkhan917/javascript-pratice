@@ -2033,12 +2033,29 @@
 
 // }
 
-var user=prompt("enter the gender please");
-if(user=="male"){
-document.write("good morning sir")
+// var user=prompt("enter the gender please");
+// if(user=="male"){
+// document.write("good morning sir")
 
-}
-else if(user=="female"){
-document.write("good morning maam")
+// }
+// else if(user=="female"){
+// document.write("good morning maam")
 
-}
+// }
+
+
+// var user=prompt("enter the user");
+// if(user==="red"){
+// document.write("must stop")
+
+// }
+
+// else if(user==="yellow"){
+//     document.write("ready to move")
+    
+//     }
+    
+// else if(user==="green"){
+//     document.write("move now")
+    
+//     }
