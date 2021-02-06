@@ -2123,3 +2123,13 @@
 // document.write("sorry")
 
 // }
+
+var user=prompt("enter the number")
+if(user%2==0){
+document.write("even")
+
+}
+else{
+document.write("odd")
+
+}
