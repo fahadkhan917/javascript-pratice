@@ -2059,3 +2059,15 @@
 //     document.write("move now")
     
 //     }
+
+
+// var user=prompt("enter the remaining fuel")
+// if(user<0.25){
+// document.write("please refill fuel")
+
+// }
+
+// var a = 4;
+// if (++a === 5){
+// alert("given condition for variable a is true");
+// }
