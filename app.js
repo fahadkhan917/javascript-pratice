@@ -2148,3 +2148,26 @@
 // else if(user>=10){
 //     document.write("OMG! weather is so cool")
 // }
+// var num1=+prompt("enter the first number");
+// var opr=prompt("enter the operation")
+// var num2=+prompt("enter the second number");
+// if(opr==='+'){
+
+// document.write("the sum of"+(num1+num2))
+
+// }
+// else if(opr=='-'){
+
+//     document.write("the sum of"+(num1-num2))
+    
+//     }
+//    else if(opr=='*'){
+
+//         document.write("the sum of"+(num1*num2))
+        
+//         }
+//        else if(opr=='/'){
+
+//             document.write("the sum of"+(num1/num2))
+            
+//             }
