@@ -2124,12 +2124,27 @@
 
 // }
 
-var user=prompt("enter the number")
-if(user%2==0){
-document.write("even")
+// var user=prompt("enter the number")
+// if(user%2==0){
+// document.write("even")
 
-}
-else{
-document.write("odd")
+// }
+// else{
+// document.write("odd")
 
-}
+// }
+
+// var user=prompt("enter the temperature")
+// if(user>=40){
+// document.write("it is too hot outside")
+
+// }
+// else if(user>=30){
+//     document.write("The weather today is normal")
+// }
+// else if(user>=20){
+//     document.write("Today weather is cool")
+// }
+// else if(user>=10){
+//     document.write("OMG! weather is so cool")
+// }
