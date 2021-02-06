@@ -2077,27 +2077,49 @@
 // alert("given condition for variable b is true");
 // }
 
-var obt1=+prompt("enter the obtained marks 1")
-var obt2=+prompt("enter the obtained marks 2")
-var obt3=+prompt("enter the obtained marks 3")
-var totalmark=prompt("enter the total marks")
-var markobt=obt1+obt2+obt3
-var per=markobt/totalmark*100
+// var obt1=+prompt("enter the obtained marks 1")
+// var obt2=+prompt("enter the obtained marks 2")
+// var obt3=+prompt("enter the obtained marks 3")
+// var totalmark=prompt("enter the total marks")
+// var markobt=obt1+obt2+obt3
+// var per=markobt/totalmark*100
 
 
-document.write("total marks"+totalmark)
-document.write("marks obtained"+markobt)
-document.write("percantage"+per)
-if(per>80){
-    document.write("A-one")
-}
-if(per>70){
-    document.write("A")
-}
-if(per>60){
-    document.write("B")
-}
-else{
-    document.write("fail")
-}
+// document.write("total marks"+totalmark)
+// document.write("marks obtained"+markobt)
+// document.write("percantage"+per)
+// if(per>80){
+//     document.write("A-one")
+// }
+// if(per>70){
+//     document.write("A")
+// }
+// if(per>60){
+//     document.write("B")
+// }
+// else{
+//     document.write("fail")
+// }
 
+// var sernum=8;
+// var user=prompt("enter the number")
+// if(sernum==user){
+
+//     document.write("Bingo!Correct answer")
+// }
+
+// else if(sernum++){
+
+//     document.write("close enough to the correct answer")
+
+// }
+
+// var user=prompt("enter the number")
+// if(user%3==0){
+// document.write("yes number divide by 3")
+
+// }
+// else{
+// document.write("sorry")
+
+// }
