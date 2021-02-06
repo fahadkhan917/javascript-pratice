@@ -1980,32 +1980,65 @@
 
 
 
-var num=prompt("enter the number");
-if(num){
+// var num=prompt("enter the number");
+// if(num){
 
-document.write(num+"x"+"1"+"="+num*1+"<br>")
-document.write(num+"x"+"2"+"="+num*2+"<br>")
-document.write(num+"x"+"3"+"="+num*3+"<br>")
-document.write(num+"x"+"4"+"="+num*4+"<br>")
-document.write(num+"x"+"5"+"="+num*5+"<br>")
-document.write(num+"x"+"6"+"="+num*6+"<br>")
-document.write(num+"x"+"7"+"="+num*7+"<br>")
-document.write(num+"x"+"8"+"="+num*8+"<br>")
-document.write(num+"x"+"9"+"="+num*9+"<br>")
-document.write(num+"x"+"10"+"="+num*10+"<br>")
+// document.write(num+"x"+"1"+"="+num*1+"<br>")
+// document.write(num+"x"+"2"+"="+num*2+"<br>")
+// document.write(num+"x"+"3"+"="+num*3+"<br>")
+// document.write(num+"x"+"4"+"="+num*4+"<br>")
+// document.write(num+"x"+"5"+"="+num*5+"<br>")
+// document.write(num+"x"+"6"+"="+num*6+"<br>")
+// document.write(num+"x"+"7"+"="+num*7+"<br>")
+// document.write(num+"x"+"8"+"="+num*8+"<br>")
+// document.write(num+"x"+"9"+"="+num*9+"<br>")
+// document.write(num+"x"+"10"+"="+num*10+"<br>")
+// }
+
+// else{
+//     document.write(5+"x"+"1"+"="+5*1+"<br>")
+//     document.write(5+"x"+"2"+"="+5*2+"<br>")
+//     document.write(5+"x"+"3"+"="+5*3+"<br>")
+//     document.write(5+"x"+"4"+"="+5*4+"<br>")
+//     document.write(5+"x"+"5"+"="+5*5+"<br>")
+//     document.write(5+"x"+"6"+"="+5*6+"<br>")
+//     document.write(5+"x"+"7"+"="+5*7+"<br>")
+//     document.write(5+"x"+"8"+"="+5*8+"<br>")
+//     document.write(5+"x"+"9"+"="+5*9+"<br>")
+//     document.write(5+"x"+"10"+"="+5*10+"<br>")
+
+
+// }
+
+
+// var sub1=prompt("enter the subject1")
+// var sub2=prompt("enter the subject2")
+// var sub3=prompt("enter the subject3")
+// var total_mark=100;
+// var obt1=prompt("enter the obtained marks for subject 1")
+// var obt2=prompt("enter the obtained marks for subject 2")
+// var obt3=prompt("enter the obtained marks for subject 3")
+
+// document.write("<table><th>Subject</th><th>Total marks</th><th>Obtained marks</th><th>percentahge</th><tr><td>English</td>total_mark<td>obt1</td><td></td></tr></table>")
+
+
+// var user=prompt("enter the user");
+// if(user==="karachi"){
+// document.write("yes you are right")
+
+// }
+// else{
+
+// document.write("sorry")
+
+// }
+
+var user=prompt("enter the gender please");
+if(user=="male"){
+document.write("good morning sir")
+
 }
-
-else{
-    document.write(5+"x"+"1"+"="+5*1+"<br>")
-    document.write(5+"x"+"2"+"="+5*2+"<br>")
-    document.write(5+"x"+"3"+"="+5*3+"<br>")
-    document.write(5+"x"+"4"+"="+5*4+"<br>")
-    document.write(5+"x"+"5"+"="+5*5+"<br>")
-    document.write(5+"x"+"6"+"="+5*6+"<br>")
-    document.write(5+"x"+"7"+"="+5*7+"<br>")
-    document.write(5+"x"+"8"+"="+5*8+"<br>")
-    document.write(5+"x"+"9"+"="+5*9+"<br>")
-    document.write(5+"x"+"10"+"="+5*10+"<br>")
-
+else if(user=="female"){
+document.write("good morning maam")
 
 }
