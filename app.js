@@ -2171,3 +2171,21 @@
 //             document.write("the sum of"+(num1/num2))
             
 //             }
+
+
+var user=prompt("enter please")
+for(var i=0;i<user.length;i++){
+    if(user.charCodeAt(user[i])>=97 && user.charCodeAt(user[i])<=122){
+  document.write("lower case")
+
+    }
+   else if(user.charCodeAt(user[i])>=97){
+        document.write("lower case")
+      
+          }
+        else  if(user.charCodeAt(user[i])>=97){
+            document.write("lower case")
+          
+              }
+
+}
