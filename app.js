@@ -2220,3 +2220,58 @@
 // greeting= "Good evening";
 // document.write(greeting)
 // }
+
+
+var user=prompt("enter the time in clock format");
+if(user==13){
+document.write("1 pm")
+
+}
+else if(user==14){
+    document.write("2 pm")
+    
+    }
+    else if(user==15){
+        document.write("3 pm")
+        
+        }
+        else if(user==16){
+            document.write("4 pm")
+            
+            }
+            else if(user==17){
+                document.write("5 pm")
+                
+                }
+                else if(user==18){
+                    document.write("6 pm")
+                    
+                    }
+                    else if(user==19){
+                        document.write("7 pm")
+                        
+                        }
+                        else if(user==20){
+                            document.write("8 pm")
+                            
+                            }
+                            else if(user==21){
+                                document.write("9 pm")
+                                
+                                }
+                                else if(user==22){
+                                    document.write("10 pm")
+                                    
+                                    }
+                                    else if(user==23){
+                                        document.write("11 pm")
+                                        
+                                        }
+                                        else if(user==24){
+                                            document.write("12 pm")
+                                            
+                                            }
+                                            else if(user==14){
+                                                document.write("2 pm")
+                                                
+                                                }
