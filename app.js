@@ -2187,8 +2187,8 @@
 
 // }
 
-var user=prompt("enter the character");
-if(user.charCodeAt(97) || user.charCodeAt(101) || user.charCodeAt(105) || user.charCodeAt(111) || user.charCodeAt(117)){
-document.write("vowel")
+// var user=prompt("enter the character");
+// if(user.charCodeAt()==97|| user.charCodeAt()==101 || user.charCodeAt()==105 || user.charCodeAt()==111 || user.charCodeAt()==117){
+// document.write("vowel")
 
-}
+// }
