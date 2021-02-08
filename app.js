@@ -2173,19 +2173,22 @@
 //             }
 
 
-var user=prompt("enter please")
-for(var i=0;i<user.length;i++){
-    if(user.charCodeAt(user[i])>=97 && user.charCodeAt(user[i])<=122){
-  document.write("lower case")
+// var user=prompt("enter please")
+// for(var i=0;i<user.length;i++){
+//     if(user.charCodeAt(user[i])>=97 && user.charCodeAt(user[i])<=122){
+//   document.write("lower case")
 
-    }
-   else if(user.charCodeAt(user[i])>=97){
-        document.write("lower case")
+//     }
+//    else if(user.charCodeAt(user[i])>=65 || user.charCodeAt(user[i])<=90){
+//         document.write("Upper case")
       
-          }
-        else  if(user.charCodeAt(user[i])>=97){
-            document.write("lower case")
-          
-              }
+//           }
+        
+
+// }
+
+var user=prompt("enter the character");
+if(user.charCodeAt(97) || user.charCodeAt(101) || user.charCodeAt(105) || user.charCodeAt(111) || user.charCodeAt(117)){
+document.write("vowel")
 
 }
