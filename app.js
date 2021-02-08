@@ -2292,3 +2292,17 @@
 // document.write(a[5]);
 // document.write(a[6]);
 // document.write(a[7]);
+
+// var stu=["fahad","asad","umer"];
+// var sco=[320,230,480];
+// var total_marks=500;
+
+// // document.write("scorre of"+stu[0]+"is"+sco[0]+"Percentage:"+sco[0]/total_marks*100+"<br>")
+// // document.write("scorre of"+stu[1]+"is"+sco[1]+"Percentage:"+sco[1]/total_marks*100+"<br>")
+// // document.write("scorre of"+stu[2]+"is"+sco[2]+"Percentage:"+sco[2]/total_marks*100+"<br>")
+
+// for(var i=0;i<3;i++){
+
+// document.write(stu[i]+"<br>")
+// document.write(sco[i]+"<br>")
+// }
