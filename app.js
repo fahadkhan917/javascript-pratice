@@ -2192,3 +2192,18 @@
 // document.write("vowel")
 
 // }
+
+// var corr="fahad"
+// var user=prompt("enter the password plz");
+// if(user==""){
+// document.write("please enter your password")
+
+
+// }
+// else if(user===corr){
+// document.write("correct passsword")
+// }
+// else{
+// document.write("incorrect")
+
+// }
