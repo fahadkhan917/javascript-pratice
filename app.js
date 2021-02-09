@@ -2490,7 +2490,12 @@ var color=["red","blue","pink","purple","yellow"];
 // document.write(up)
 
 
-var user=prompt("enter the value");
-var up=user.slice(0,1);
-document.write(up)
+// var user=prompt("enter the value");
+// var up=user.slice(0,1);
+// var ups=up.toUpperCase();
+// var lo=user.slice(1);
+// var los=lo.toLowerCase();
+// document.write(ups+los)
+
+
 
