@@ -2440,3 +2440,21 @@ var color=["red","blue","pink","purple","yellow"];
 
 
 // }
+
+
+// var user=prompt("enter the name")
+// var user1=prompt("enter the secname")
+// var full=user+user1;
+// document.write(full)
+
+
+// var user="i love pakistan";
+// document.write(user.length)
+
+// var love="pakistan";
+// document.write(love.indexOf('n'))
+
+
+
+
+
