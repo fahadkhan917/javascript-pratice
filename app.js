@@ -2467,4 +2467,20 @@ var color=["red","blue","pink","purple","yellow"];
 // var fullname=user.concat(user2);
 // document.write(fullname)
 
+//  var city="hyderabad";
+//  var str=city.replace('hyder','islam');
+//  document.write(str);
+
+
+// var message = "Ali and Sami are best friends. They play cricket and football together"
+// var str=message.replace(/and/g,'&')
+// document.write(str)
+
+
+// var nu=472;
+// document.write(nu);
+// var nu=472;
+// var numbe=Number(nu)
+// document.write(numbe);
+
 
