@@ -2454,7 +2454,17 @@ var color=["red","blue","pink","purple","yellow"];
 // var love="pakistan";
 // document.write(love.indexOf('n'))
 
+// var wor="hellow world";
+// document.write(wor.lastIndexOf('l'))
 
 
+// var str="pakistani";
+// var u=str.charAt(3)
+// document.write(u)
+
+// var user=prompt("enter the name");
+// var user2=prompt("enter the last name")
+// var fullname=user.concat(user2);
+// document.write(fullname)
 
 
