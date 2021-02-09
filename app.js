@@ -2382,3 +2382,14 @@ var color=["red","blue","pink","purple","yellow"];
 // document.write("counting"+i)
 
 // }
+
+// for(var i=10;i>=1;i--){
+ 
+//     document.write(i)
+    
+// }
+// for(var i=2;i<=20;i=i+2){
+ 
+//     document.write(i)
+    
+//     }
