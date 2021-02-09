@@ -2308,9 +2308,21 @@
 // }
 
 var color=["red","blue","pink","purple","yellow"];
-var user=prompt("enter the color you want add in first")
-color.unshift(user)
+// var user=prompt("enter the color you want add in first")
+// color.unshift(user)
+// var user=prompt("enter the color you want add in last")
+// color.push(user)
+// color.shift()
+// color.pop()
+// var inuser=prompt("enter your index please")
+// var user1=prompt("enter the color")
+// color.splice(inuser,0,user1)
+// var user2=prompt("enter the  color you want to delete")
+// var ind=prompt("enter the lenght")
+// color.splice(ind,user2)
+// document.write(color)
 
-var user=prompt("enter the color you want add in last")
-color.push(user)
-document.write(color)
+var arr=[320,230,480,120]
+
+
+
