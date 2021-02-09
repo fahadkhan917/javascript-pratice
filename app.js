@@ -2351,5 +2351,8 @@ var color=["red","blue","pink","purple","yellow"];
 // c.pop();
 // document.write(c);
 
+// var arr=["nokia","samsung","motorala","apple","sony","haier"];
+// document.write("<select><option>"+arr[0]+"</option></select>")
+
 
 
