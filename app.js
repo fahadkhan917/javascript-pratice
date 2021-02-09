@@ -2484,3 +2484,13 @@ var color=["red","blue","pink","purple","yellow"];
 // document.write(numbe);
 
 
+
+// var str="peanuts"
+// var up=str.toUpperCase();
+// document.write(up)
+
+
+var user=prompt("enter the value");
+var up=user.slice(0,1);
+document.write(up)
+
