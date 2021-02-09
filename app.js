@@ -2306,3 +2306,11 @@
 // document.write(stu[i]+"<br>")
 // document.write(sco[i]+"<br>")
 // }
+
+var color=["red","blue","pink","purple","yellow"];
+var user=prompt("enter the color you want add in first")
+color.unshift(user)
+
+var user=prompt("enter the color you want add in last")
+color.push(user)
+document.write(color)
