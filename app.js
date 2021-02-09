@@ -2322,7 +2322,17 @@ var color=["red","blue","pink","purple","yellow"];
 // color.splice(ind,user2)
 // document.write(color)
 
-var arr=[320,230,480,120]
+// var arr=[320,230,480,120]
+// var sor=arr.sort();
+// document.write(sor)
+
+// var arr=["karachi","lahore","islamabad","Quetta","peshawar"];
+// var nik=arr.slice(2,4)
+// document.write(nik)
+
+// var arr=["this","is","my","cat"];
+// var ji=arr.join(' ')
+// document.write(ji)
 
 
 
