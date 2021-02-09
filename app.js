@@ -2335,4 +2335,21 @@ var color=["red","blue","pink","purple","yellow"];
 // document.write(ji)
 
 
+// var c=["keyboard","mouse","printer","monitor"]
+// document.write(c);
+// c.shift();
+// c.shift();
+// c.shift();
+// c.shift();
+// document.write(c);
+
+
+// var c=["keyboard","mouse","printer","monitor"]
+// c.pop();
+// c.pop();
+// c.pop();
+// c.pop();
+// document.write(c);
+
+
 
