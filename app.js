@@ -2376,3 +2376,9 @@ var color=["red","blue","pink","purple","yellow"];
 // document.write("Element at index"+arr.indexOf(arr[i])+arr[i]+"<br>")
 
 // }
+
+// for(var i=0;i<=15;i++){
+ 
+// document.write("counting"+i)
+
+// }
