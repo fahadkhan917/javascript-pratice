@@ -2369,3 +2369,10 @@ var color=["red","blue","pink","purple","yellow"];
 // document.write(user+"*"+i+"="+user*i+"<br>")
 
 // }
+
+
+// var arr=["apple","mango","orange","banana"];
+// for(var i=0;i<arr.length;i++){
+// document.write("Element at index"+arr.indexOf(arr[i])+arr[i]+"<br>")
+
+// }
