@@ -2406,3 +2406,30 @@ var color=["red","blue","pink","purple","yellow"];
 // document.write("yes"+arr.indexOf(arr[i]));
 
 // }
+
+
+// var arr=[24,45,78,98,40];
+// var lar=0;
+// for(var i=0;i<arr.length;i++){
+
+// if(arr[i]>lar){
+//     lar=arr[i]
+
+// }
+
+
+// }
+// document.write("largest number is : " + lar);
+
+// var arr=[24,45,78,98,40];
+// var lar=arr[0];
+// for(var i=0;i<arr.length;i++){
+
+// if(arr[i]<lar){
+//     lar=arr[i]
+
+// }
+
+
+// }
+// document.write("largest number is : " + lar);
