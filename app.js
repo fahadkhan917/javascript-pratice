@@ -2393,3 +2393,16 @@ var color=["red","blue","pink","purple","yellow"];
 //     document.write(i)
     
 //     }
+// for(var i=1;i<=19;i=i+2){
+ 
+//     document.write(i)
+    
+//     }
+
+// var arr=["cake","apple","cookie","chips","patties"];
+// var user=prompt("enter the value");
+// for(var i=0;i<arr.length;i++){
+// if(user==arr[i])
+// document.write("yes"+arr.indexOf(arr[i]));
+
+// }
