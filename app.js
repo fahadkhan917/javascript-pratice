@@ -2497,5 +2497,15 @@ var color=["red","blue","pink","purple","yellow"];
 // var los=lo.toLowerCase();
 // document.write(ups+los)
 
+// var num=35.36;
+// var la=num.toFixed(0);
+// document.write(la)
+
+// var num="35.36";
+// var la=num.replace('.','')
+// document.write(la)
+
+
+
 
 
