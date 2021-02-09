@@ -2356,3 +2356,16 @@ var color=["red","blue","pink","purple","yellow"];
 
 
 
+// for(var i=0;i<=10;i++){
+// document.write(i+"<br>")
+
+// }
+
+
+// var user=prompt("enter the number show on table")
+// var len=prompt("enter the lenght of table")
+// for(var i=1;i<=len;i++){
+
+// document.write(user+"*"+i+"="+user*i+"<br>")
+
+// }
