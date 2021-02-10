@@ -2506,6 +2506,33 @@ var color=["red","blue","pink","purple","yellow"];
 // document.write(la)
 
 
+// var user=prompt("enter the user");
+// for(var i=0;i<user.length;i++){
+// if(user.charCodeAt(user[i])==33){
+
+//     document.write("enter a valid username")
+
+// }
+// else if(user.charCodeAt(user[i])==44){
+
+//     document.write("enter a valid username")
+
+// }
+// else if(user.charCodeAt(user[i])==46){
+
+//     document.write("enter a valid username")
+
+// }
+
+// else if(user.charCodeAt(user[i])==64){
+
+//     document.write("enter a valid username")
+
+// }
+// }
+
+
+
 
 
 
