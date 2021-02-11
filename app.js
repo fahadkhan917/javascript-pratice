@@ -2652,3 +2652,11 @@ var color=["red","blue","pink","purple","yellow"];
 // }
 
 
+// var a=new Date("31-july-2021");
+// document.write(a);
+
+var a=new Date();
+
+
+
+
