@@ -2551,12 +2551,26 @@ var color=["red","blue","pink","purple","yellow"];
 
 
 
-var num=3.45214;
-var rou=Math.round(num);
-document.write(rou)
-var floo=Math.floor(num);
-document.write(floo)
-var cei=Math.ceil(num);
-document.write(cei)
+// var num=3.45214;
+// var rou=Math.round(num);
+// document.write(rou)
+// var floo=Math.floor(num);
+// document.write(floo)
+// var cei=Math.ceil(num);
+// document.write(cei)
+
+
+// var a=-4;
+// var dd=Math.abs(a);
+// document.write(dd)
+
+
+// var a=Math.random()*10;
+// var roun=Math.round(a)
+// document.write(roun);
+
+
+
+
 
 
