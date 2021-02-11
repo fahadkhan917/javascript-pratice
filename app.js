@@ -2615,6 +2615,13 @@ var color=["red","blue","pink","purple","yellow"];
 // var cuda=day[cu]
 // document.write(cuda)
 
+// var a=new Date();
+// var b=a.getDay();
+// if(b==0 || b==6){
+// document.write("ajj hai")
+
+// }
+
 
 
 
