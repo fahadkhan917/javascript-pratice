@@ -2622,6 +2622,17 @@ var color=["red","blue","pink","purple","yellow"];
 
 // }
 
+// var a=new Date();
+// var b=a.getDate()
+// if(b<15){
+// document.write("before 15")
+
+// }
+// else{
+//     document.write("after 15")
+
+
+// }
 
 
 
