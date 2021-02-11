@@ -2545,12 +2545,18 @@ var color=["red","blue","pink","purple","yellow"];
 // }
 
 
-var a="the quick brown fox jumps over the lazy dog";
-var count=a.match(/the/g).length
-document.write(count)
+// var a="the quick brown fox jumps over the lazy dog";
+// var count=a.match(/the/g).length
+// document.write(count)
 
 
 
-
+var num=3.45214;
+var rou=Math.round(num);
+document.write(rou)
+var floo=Math.floor(num);
+document.write(floo)
+var cei=Math.ceil(num);
+document.write(cei)
 
 
