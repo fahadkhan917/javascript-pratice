@@ -2573,4 +2573,12 @@ var color=["red","blue","pink","purple","yellow"];
 
 
 
+// var a=Math.random()*1+1;
+// var roun=Math.round(a)
+// if(roun==1){
+// document.write("tails");
+// }
+// else{
+//     document.write("Heads");
 
+// }
