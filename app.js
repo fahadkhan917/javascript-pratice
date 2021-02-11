@@ -2609,6 +2609,11 @@ var color=["red","blue","pink","purple","yellow"];
 // var cumo=mon[cu];
 // document.write(cumo)
 
+// var a=new Date();
+// var day=["sun","monday","tuesday","wed","thu","fri","sat"];
+// var cu=a.getDay();
+// var cuda=day[cu]
+// document.write(cuda)
 
 
 
