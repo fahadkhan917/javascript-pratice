@@ -2641,5 +2641,14 @@ var color=["red","blue","pink","purple","yellow"];
 // var min=a.getTime()/1000*60*60;
 // document.write(min)
 
+// var a=new Date();
+// var b=a.getHours()
+// if(b<12){
+// document.write("Good Morning")
+// }
+
+// else{
+//     document.write("Good afternoon")
+// }
 
 
