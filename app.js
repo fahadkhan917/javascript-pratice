@@ -2634,5 +2634,12 @@ var color=["red","blue","pink","purple","yellow"];
 
 // }
 
+// var a=new Date();
+// document.write(a);
+// var b=a.getTime()
+// document.write(b+"<br>");
+// var min=a.getTime()/1000*60*60;
+// document.write(min)
+
 
 
