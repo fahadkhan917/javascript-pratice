@@ -2600,6 +2600,16 @@ var color=["red","blue","pink","purple","yellow"];
 // }
 
 
+// var a=new Date();
+// document.write(a);
+
+// var a=new Date();
+// var mon=["jan","feb","mar","april","may","june","july"]
+// var cu=a.getMonth();
+// var cumo=mon[cu];
+// document.write(cumo)
+
+
 
 
 
