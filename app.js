@@ -2582,3 +2582,24 @@ var color=["red","blue","pink","purple","yellow"];
 //     document.write("Heads");
 
 // }
+
+// var a=Math.random()*100;
+// var roun=Math.round(a);
+// document.write(roun)
+
+
+// var user=prompt("enter the please");
+// var a=Math.random*10;
+// if(user===a){
+// document.write("yes")
+
+// }
+// else{
+// document.write("soory")
+
+// }
+
+
+
+
+
