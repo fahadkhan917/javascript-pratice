@@ -2532,6 +2532,23 @@ var color=["red","blue","pink","purple","yellow"];
 // }
 
 
+// var a=["cake","apple","cookie","chips"];
+// var user=prompt("enter the user");
+
+
+// var uni="indusuniversity";
+// // var b=uni.split('');
+// for(var i=0;i<uni.length;i++){
+
+// document.write(uni[i]+"<br>")
+
+// }
+
+
+var a="the quick brown fox jumps over the lazy dog";
+
+
+
 
 
 
