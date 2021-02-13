@@ -2668,8 +2668,14 @@ var color=["red","blue","pink","purple","yellow"];
 // document.write(daysgone + " days have passed since ramazan 1st")
 
 
-var curr=new Date();
-var pas=new Date("2015")
-var cu=curr.getTime();
-var fi=cu-(pas.getTime())/(1000*60)
-document.write(fi)
+// var curr=new Date();
+// var pas=new Date("2015")
+// var cu=curr.getTime();
+// var fi=cu-(pas.getTime())/(1000*60)
+// document.write(fi)
+
+
+var a=new Date();
+document.write(a);
+var ne=new Date(a.getTime()-(1000*60*60))
+document.write(ne)
