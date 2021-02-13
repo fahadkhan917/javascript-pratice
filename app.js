@@ -2655,8 +2655,16 @@ var color=["red","blue","pink","purple","yellow"];
 // var a=new Date("31-july-2021");
 // document.write(a);
 
-var a=new Date();
+// var curr=new Date();
+// var a=new Date("2021/1/1");
+// var daygo=curr.getTime();
+// var goneday=daygo-a.getTime()/(1000*60*60*24)
+// document.write(goneday)
 
 
+// var currentdate=new Date()
+// var startingdate = new Date("2020/02/13");
+// var daysgone = (currentdate.getTime() - startingdate.getTime())/(1000*60*60*24);
+// document.write(daysgone + " days have passed since ramazan 1st")
 
 
