@@ -2675,7 +2675,12 @@ var color=["red","blue","pink","purple","yellow"];
 // document.write(fi)
 
 
-var a=new Date();
-document.write(a);
-var ne=new Date(a.getTime()-(1000*60*60))
-document.write(ne)
+// var a=new Date();
+// document.write(a+"<br>");
+// var ne=new Date(a.getTime()-(1000*60*60))
+// document.write(ne)
+
+// var a=new Date();
+// document.write(a+"<br>");
+// var getbck=new Date(a.getTime()-(1000*60*60*24*364.25*100));
+// document.write(getbck)
