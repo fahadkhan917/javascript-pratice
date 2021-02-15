@@ -2684,3 +2684,10 @@ var color=["red","blue","pink","purple","yellow"];
 // document.write(a+"<br>");
 // var getbck=new Date(a.getTime()-(1000*60*60*24*364.25*100));
 // document.write(getbck)
+
+var a=new Date()
+var age=prompt("emter the user");
+var to=new Date(a.getTime()-(1000*60*60*24*365*age))
+document.write(to)
+
+
