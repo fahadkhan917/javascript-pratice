@@ -2759,3 +2759,12 @@ var color=["red","blue","pink","purple","yellow"];
 // document.write(a)
 
 
+
+// function abc(num){
+
+// var re=num*num;
+// return re;
+
+// }
+// var a=abc(5)
+// document.write(a);
