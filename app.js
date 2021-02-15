@@ -2720,3 +2720,19 @@ var color=["red","blue","pink","purple","yellow"];
 // }
 // document.write(abc())
 
+
+// var x=20;
+// var y=15;
+// x=x+y;
+// y=x-y;
+// x=x-y;
+// document.write(x+"<br>")
+// document.write(y)
+
+function sum(num1,opr,num2){
+
+
+
+}
+
+
