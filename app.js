@@ -2685,9 +2685,29 @@ var color=["red","blue","pink","purple","yellow"];
 // var getbck=new Date(a.getTime()-(1000*60*60*24*364.25*100));
 // document.write(getbck)
 
-var a=new Date()
-var age=prompt("emter the user");
-var to=new Date(a.getTime()-(1000*60*60*24*365*age))
-document.write(to)
+// var a=new Date()
+// var age=prompt("emter the user");
+// var to=new Date(a.getTime()-(1000*60*60*24*365*age))
+// document.write(to)
 
+
+// function abc(){
+
+// var a=new Date();
+// document.write(a)
+
+// }
+// abc()
+
+
+// abc=()=>{
+
+// var n=prompt("enter the name");
+// var l=prompt("enter the last");
+// var fu=n+l;
+// document.write(fu)
+
+// }
+
+// abc()
 
