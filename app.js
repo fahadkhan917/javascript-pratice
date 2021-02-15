@@ -2729,10 +2729,33 @@ var color=["red","blue","pink","purple","yellow"];
 // document.write(x+"<br>")
 // document.write(y)
 
-function sum(num1,opr,num2){
+// function sum(num1,num2,opr){
+// var result;
+// if(opr=="+"){
 
+// result=num1+num2;
 
+// }
+// else if(opr=="/"){
 
-}
+//     result=num1/num2;
+    
+//     }
+//   else if(opr=="*"){
+
+//         result=num1*num2;
+        
+//         }
+//        else if(opr=="-"){
+
+//             result=num1-num2;
+            
+//             }
+//            return result;
+
+// }
+
+// var a=sum(+prompt("enter the first"),+prompt("enter the second"),prompt("enter the opr"))
+// document.write(a)
 
 
