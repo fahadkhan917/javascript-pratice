@@ -2711,3 +2711,12 @@ var color=["red","blue","pink","purple","yellow"];
 
 // abc()
 
+// abc=()=>{
+
+// var f=+prompt("enter the number");
+// var l=+prompt("enter the last number")
+// var c=f+l;
+// return c;
+// }
+// document.write(abc())
+
