@@ -2769,19 +2769,36 @@ var color=["red","blue","pink","purple","yellow"];
 // var a=abc(5)
 // document.write(a);
 
-var sum=0;
-function abc(num){
-var fact;
-for(var i=0;i<num;i++){
-fact=num*i;
-sum=sum+fact;
+// var sum=0;
+// function abc(num){
+// var fact;
+// for(var i=0;i<num;i++){
+// fact=num*i;
+// sum=sum+fact;
 
 
 
-}
+// }
 
-document.write(sum)
+// document.write(sum)
 
-}
+// }
 
-abc(4)
+// abc(4)
+
+
+
+
+// var sum=0;
+// function fac(num){
+// var fact=1;
+// for(var i=0;i<num;i++){
+// fact=fact*(num-i);
+
+
+// }
+// document.write(fact)
+// }
+
+
+// fac(6);
