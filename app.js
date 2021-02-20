@@ -2830,4 +2830,28 @@ var color=["red","blue","pink","purple","yellow"];
 
 // }
 
-abc("madam")
+// abc("madam")
+
+
+
+
+
+
+function abc(strng){
+var newstr="";
+for(var i=strng.length-1;i>=0;i--){
+newstr+=strng[i]
+
+
+}
+if(newstr===strng){
+
+document.write("yes mae ho")
+
+}
+
+
+
+}
+
+abc(prompt("enter the word"));
