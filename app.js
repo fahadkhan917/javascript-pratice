@@ -2810,3 +2810,24 @@ var color=["red","blue","pink","purple","yellow"];
 // document.write(i)
 
 // }
+
+
+// function abc(wo){
+//   var str="";
+//     for(var i=wo.length-1;i>=0;i--){
+
+// str+=wo[i];
+
+//     }
+
+//     if(wo===str){
+
+// document.write("it is")
+
+//     }
+    
+
+
+// }
+
+abc("madam")
