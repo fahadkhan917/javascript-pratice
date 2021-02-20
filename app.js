@@ -2802,3 +2802,11 @@ var color=["red","blue","pink","purple","yellow"];
 
 
 // fac(6);
+
+// var fi=prompt("enter the first user")
+// var la=prompt("enter the second user")
+// for(var i=fi;i<la;i++){
+
+// document.write(i)
+
+// }
