@@ -2995,10 +2995,10 @@ var color=["red","blue","pink","purple","yellow"];
 // var arry1=word.split(' ');
 // var result=arry1[0];
 // for(var i=0;i<word.length;i++){
-
+    
 // if(result.length<arry1[i].length){
+//     result=arry1[i]
 
-// result=arry1[i]
 // document.write(result)
 // }
 
@@ -3012,3 +3012,24 @@ var color=["red","blue","pink","purple","yellow"];
 
 
 // abc("web deveploment tutarial")
+
+
+function abc(str,letter){
+
+    var letter_count=0;
+    for(var i=0;i<str.length;i++){
+     
+if(str.charAt(i)==letter){
+
+letter_count+=1
+
+}
+
+
+    }
+    document.write(letter_count)
+
+}
+
+
+abc("fahad",'a')
