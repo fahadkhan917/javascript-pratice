@@ -3014,22 +3014,22 @@ var color=["red","blue","pink","purple","yellow"];
 // abc("web deveploment tutarial")
 
 
-function abc(str,letter){
+// function abc(str,letter){
 
-    var letter_count=0;
-    for(var i=0;i<str.length;i++){
+//     var letter_count=0;
+//     for(var i=0;i<str.length;i++){
      
-if(str.charAt(i)==letter){
+// if(str.charAt(i)==letter){
 
-letter_count+=1
+// letter_count+=1
 
-}
-
-
-    }
-    document.write(letter_count)
-
-}
+// }
 
 
-abc("fahad",'a')
+//     }
+//     document.write(letter_count)
+
+// }
+
+
+// abc("fahad",'a')
