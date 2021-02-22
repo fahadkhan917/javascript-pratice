@@ -2857,19 +2857,55 @@ var color=["red","blue","pink","purple","yellow"];
 // abc(prompt("enter the word"));
 
 
+// function abc(word){
+// word=word.split(' ')
+// for(var i=0;i<word.length;i++){
+
+// word[i]=word[i].charAt(0).toUpperCase();
+// document.write(word[i])
+
+// }
+
+
+
+
+// }
+
+
+// abc("fahad khan ho mae")
+
+
+// function abc(strg){
+
+// var newstrg='';
+// for(var i=strg.length-1;i>=0;i--){
+// newstrg+=strg;
+
+
+// }
+// if(newstrg===strg){
+
+// document.write("yes")
+
+// }
+
+// }
+
+
+// abc("madam");
+
+
 function abc(word){
-word=word.split(' ')
-for(var i=0;i<word.length;i++){
-
-word[i]=word[i].charAt(0).toUpperCase();
+  word=word.split(' ');
+    for(var i=0;i<word.length;i++){
+     word[i]=word[i].charAt(0).toUpperCase()+word[i].slice(1)
 document.write(word[i])
+        
+    }
+
+
 
 }
 
 
-
-
-}
-
-
-abc("fahad khan ho mae")
+abc("fahad khan ho mae");
