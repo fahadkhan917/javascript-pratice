@@ -2837,21 +2837,39 @@ var color=["red","blue","pink","purple","yellow"];
 
 
 
-function abc(strng){
-var newstr="";
-for(var i=strng.length-1;i>=0;i--){
-newstr+=strng[i]
+// function abc(strng){
+// var newstr="";
+// for(var i=strng.length-1;i>=0;i--){
+// newstr+=strng[i]
+
+
+// }
+// if(newstr===strng){
+
+// document.write("yes mae ho")
+
+// }
+
+
+
+// }
+
+// abc(prompt("enter the word"));
+
+
+function abc(word){
+word=word.split(' ')
+for(var i=0;i<word.length;i++){
+
+word[i]=word[i].charAt(0).toUpperCase();
+document.write(word[i])
+
+}
+
+
 
 
 }
-if(newstr===strng){
-
-document.write("yes mae ho")
-
-}
 
 
-
-}
-
-abc(prompt("enter the word"));
+abc("fahad khan ho mae")
