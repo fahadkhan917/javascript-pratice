@@ -2975,5 +2975,40 @@ var color=["red","blue","pink","purple","yellow"];
 // abc("madam")
 
 
+// function abc(word){
+
+//   word=word.split(' ');
+//   for(var i=0;i<word.length;i++){
+//    word[i]=word[i].charAt(0).toUpperCase()+word[i].slice(1)
+// document.write(word[i])
+
+//   }  
+
+// }
 
 
+// abc("khan fahad ho")
+
+
+// function abc(word){
+
+// var arry1=word.split(' ');
+// var result=arry1[0];
+// for(var i=0;i<word.length;i++){
+
+// if(result.length<arry1[i].length){
+
+// result=arry1[i]
+// document.write(result)
+// }
+
+
+// }
+
+
+
+// }
+
+
+
+// abc("web deveploment tutarial")
