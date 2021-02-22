@@ -3033,3 +3033,25 @@ var color=["red","blue","pink","purple","yellow"];
 
 
 // abc("fahad",'a')
+
+
+// for(var i=0;i<100;i++){
+
+// document.write(i+"<br>")
+
+
+
+// }
+
+
+
+// var a = [5,7],
+//   count = 10;
+// var missing = new Array();
+
+// for (var i = 1; i <= count; i++) {
+//   if (a.indexOf(i) == -1) {
+//     missing.push(i);
+//   }
+// }
+// document.write(missing)
