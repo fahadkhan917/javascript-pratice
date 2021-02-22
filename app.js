@@ -2895,17 +2895,45 @@ var color=["red","blue","pink","purple","yellow"];
 // abc("madam");
 
 
-function abc(word){
-  word=word.split(' ');
-    for(var i=0;i<word.length;i++){
-     word[i]=word[i].charAt(0).toUpperCase()+word[i].slice(1)
-document.write(word[i])
+// function abc(word){
+//   word=word.split(' ');
+//     for(var i=0;i<word.length;i++){
+//      word[i]=word[i].charAt(0).toUpperCase()+word[i].slice(1)
+// document.write(word[i])
         
-    }
+//     }
+
+
+
+// }
+
+
+// abc("fahad khan ho mae");
+
+
+
+
+function abc(word){
+var array1=word.match(/\w[a-z]{0,}/gi);
+var result=array1[0]
+
+for(var i=0;i<array1.length;i++){
+
+if(result.length<array1[i].length){
+
+    result=array1[i]
+
+}
+
+}
+
+
 
 
 
 }
 
 
-abc("fahad khan ho mae");
+abc("web development tutorail")
+
+
