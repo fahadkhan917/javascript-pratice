@@ -2913,27 +2913,46 @@ var color=["red","blue","pink","purple","yellow"];
 
 
 
-function abc(word){
-var array1=word.match(/\w[a-z]{0,}/gi);
-var result=array1[0]
+// function abc(word){
+// var array1=word.match(/\w[a-z]{0,}/gi);
+// var result=array1[0]
 
-for(var i=0;i<array1.length;i++){
+// for(var i=0;i<array1.length;i++){
 
-if(result.length<array1[i].length){
+// if(result.length<array1[i].length){
 
-    result=array1[i]
-    document.write("largest"+result)
+//     result=array1[i]
+//     document.write("largest"+result)
+// }
+
+// }
+
+
+
+
+
+// }
+
+
+// abc("web development tutorail")
+
+
+function abc(str,letter){
+
+var letter_count=0;
+for(var i=0;i<str.length;i++){
+
+if(str.charAt(i)==letter){
+
+letter_count+=1;
+
 }
 
 }
 
 
-
-
-
 }
 
-
-abc("web development tutorail")
+abc()
 
 
