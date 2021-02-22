@@ -2956,3 +2956,24 @@ var color=["red","blue","pink","purple","yellow"];
 // abc("fahad",'a')
 
 
+// function abc(str){
+// var newstr=''
+//   for(var i=str.length-1;i>=0;i--){
+//    newstr+=str[i];
+
+
+//   }  
+
+//   if(newstr===str){
+
+// document.write("yes")
+
+//   }
+
+// }
+
+// abc("madam")
+
+
+
+
