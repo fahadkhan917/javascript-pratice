@@ -3081,12 +3081,12 @@ var color=["red","blue","pink","purple","yellow"];
 // document.write(i)
 // }
 
-var a=[45,"fahad",98,78,22]
-for(var i=0;i<a.length;i++){
+// var a=[45,"fahad",98,78,22]
+// for(var i=0;i<a.length;i++){
 
-if(a.indexOf(i)==-1){
+// if(a.indexOf(i)==-1){
 
-    document.write(a[i])
-}
+//     document.write(a[i])
+// }
 
-}
+// }
