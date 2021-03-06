@@ -3090,3 +3090,26 @@ var color=["red","blue","pink","purple","yellow"];
 // }
 
 // }
+
+// function abc(a,b){
+// var cal=a;
+//    for(var i=0;i<b;i++){
+//     cal=cal*b;
+
+
+//    } 
+//    document.write(cal)
+
+
+// }
+
+// abc(2,4);
+
+
+function abc(){
+
+
+
+}
+
+abc();
