@@ -3106,10 +3106,18 @@ var color=["red","blue","pink","purple","yellow"];
 // abc(2,4);
 
 
-function abc(){
+// function abc(u){
 
+// if(u%4===0){
 
+// document.write("its a leap year")
 
-}
+// }
+// else{
+// document.write("normal")
 
-abc();
+// }
+
+// }
+// var u=prompt("enter the year")
+// abc(u);
