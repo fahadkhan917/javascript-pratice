@@ -3121,3 +3121,24 @@ var color=["red","blue","pink","purple","yellow"];
 // }
 // var u=prompt("enter the year")
 // abc(u);
+
+
+
+function area(a,b,c){
+var are;
+are=(cal(a,b,c) * (cal(a,b,c) - a) * (cal(a,b,c) - b) * (cal(a,b,c) -c));
+document.write("the area of"+are)
+
+
+
+}
+ function cal(a,b,c){
+  var s=((a+b+c)/2)
+  return s;
+
+ }   
+
+
+
+cal(2,3,4)
+area(2,3,4)
