@@ -3165,3 +3165,16 @@ var color=["red","blue","pink","purple","yellow"];
 // // main();
 // average();
 // per();
+
+
+
+// var a="fahad";
+// for(var i=0;i<a.length;i++){
+
+// if(a[i]=="a"){
+
+// document.write("the index of a is"+i)
+// break;
+// }
+
+// }
