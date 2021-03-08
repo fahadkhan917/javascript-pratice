@@ -3145,5 +3145,20 @@ var color=["red","blue","pink","purple","yellow"];
 
 
 
-function 
+function main(){
 
+
+}
+
+function average(){
+
+}
+function per(){
+
+
+
+}
+
+main();
+average();
+per();
