@@ -3213,3 +3213,10 @@ var color=["red","blue","pink","purple","yellow"];
 // document.write(result)
 
 // }
+
+// var strings = ["bongo drums", "guitar", 
+//   "flute", "double bass", "xylophone","piano"];                          
+
+//    string = strings.map(x=>x.replace( /[aeiou]/g, '' ));              
+
+//  document.write(string)
