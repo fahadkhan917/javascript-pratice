@@ -3178,3 +3178,38 @@ var color=["red","blue","pink","purple","yellow"];
 // }
 
 // }
+
+
+// var a="fahad";
+// var b=a.split('')
+// var result=""
+// for(var i=0;i<a.length;i++){
+
+// if(a[i]=="a"){
+
+//  result+=a[i]   
+
+
+// }
+
+// document.write(result)
+
+
+
+// }
+
+// document.write(b)
+
+
+// var text="fahad";
+// var result="";
+// for(var i=0;i<text.length;i++){
+// var c=text[i];
+// if("aeiou",match(c.toLowerCase())==null){
+
+// result+=c
+
+// }
+// document.write(result)
+
+// }
