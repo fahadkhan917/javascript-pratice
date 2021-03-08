@@ -3146,19 +3146,22 @@ var color=["red","blue","pink","purple","yellow"];
 
 
 function main(){
-
-
+    var a=prompt("enter the marks")
+return a;
 }
 
 function average(){
 
+var b=main()/3;
+document.write("the areaveage is"+b)
+
 }
 function per(){
 
-
-
+var c=(main()/300)*100
+document.write("the percentage is"+c)
 }
 
-main();
+// main();
 average();
 per();
