@@ -3145,23 +3145,23 @@ var color=["red","blue","pink","purple","yellow"];
 
 
 
-function main(){
-    var a=prompt("enter the marks")
-return a;
-}
+// function main(){
+//     var a=prompt("enter the marks")
+// return a;
+// }
 
-function average(){
+// function average(){
 
-var b=main()/3;
-document.write("the areaveage is"+b)
+// var b=main()/3;
+// document.write("the areaveage is"+b)
 
-}
-function per(){
+// }
+// function per(){
 
-var c=(main()/300)*100
-document.write("the percentage is"+c)
-}
+// var c=(main()/300)*100
+// document.write("the percentage is"+c)
+// }
 
-// main();
-average();
-per();
+// // main();
+// average();
+// per();
